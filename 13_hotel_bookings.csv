@@ -1,0 +1,1016 @@
+Booking_ID,Guest_Type,Room_Type,Booking_Channel,Checkin_Date,Lead_Time_Days,Nights,Room_Rate,Booking_Status
+BK10269,Leisure,Standard,Direct Website,2025-07-25,32.0,6,2809.0,Confirmed
+BK10691,Business,Suite,Direct Website,2025-12-08,18.0,2,9267.0,Confirmed
+BK10448,Leisure,Standard,OTA,2025-08-12,35.0,6,2514.0,Canceled
+BK10465,Business,Deluxe,OTA,2025-12-09,32.0,3,4031.0,Canceled
+BK10197,Leisure,Suite,Corporate,2025-11-03,14.0,7,7495.0,Confirmed
+BK10645,Leisure,Suite,Travel Agent,2025-12-17,28.0,5,8457.0,Canceled
+BK10653,Leisure,Standard,OTA,2025-08-13,4.0,1,2994.0,Confirmed
+BK10661,Leisure,Suite,Travel Agent,2025-03-26,43.0,2,8883.0,Confirmed
+BK10980,Business,Suite,Travel Agent,2025-07-21,38.0,4,7573.0,Confirmed
+BK10452,Leisure,Deluxe,Travel Agent,2025-09-20,51.0,6,4515.0,Confirmed
+BK10635,Leisure,Standard,Corporate,2025-11-15,40.0,3,3225.0,Confirmed
+BK10303,Business,Deluxe,Direct Website,2025-08-12,38.0,2,5330.0,Confirmed
+BK10612,Leisure,Suite,Travel Agent,2025-06-24,29.0,3,8853.0,Confirmed
+BK10717,Business,Standard,OTA,2025-02-28,48.0,2,2585.0,Confirmed
+BK10270,Leisure,Standard,Corporate,2025-08-29,20.0,5,2992.0,Confirmed
+BK10943,Leisure,Standard,OTA,2025-07-28,17.0,2,2538.0,Confirmed
+BK10099,Leisure,Suite,Direct Website,2025-10-19,67.0,6,7407.0,Confirmed
+BK10965,Leisure,Standard,Direct Website,2025-05-03,33.0,7,2510.0,Confirmed
+BK10157,Leisure,Deluxe,Travel Agent,2025-12-26,34.0,3,4401.0,Confirmed
+BK10190,Leisure,Suite,Corporate,2025-08-08,34.0,6,10002.0,Confirmed
+BK10378,Business,Standard,Direct Website,2025-10-27,31.0,1,3576.0,Confirmed
+BK10579,Leisure,Standard,Corporate,2025-05-12,77.0,3,2202.0,Confirmed
+BK10509,Leisure,Standard,OTA,2025-03-04,24.0,1,3504.0,Confirmed
+BK10636,Leisure,Deluxe,OTA,2025-07-15,33.0,7,3732.0,Confirmed
+BK10726,Leisure,Standard,Direct Website,2025-11-17,106.0,2,2621.0,Confirmed
+BK10083,Business,Standard,Corporate,2025-08-14,50.0,4,2383.0,Confirmed
+BK10614,Leisure,Standard,OTA,2025-10-09,6.0,5,2749.0,Confirmed
+BK10587,Leisure,Standard,Direct Website,2025-07-25,42.0,4,2338.0,Confirmed
+BK10087,Leisure,Standard,Corporate,2025-01-29,17.0,1,2337.0,Confirmed
+BK10199,Leisure,Standard,OTA,2025-11-28,8.0,6,3626.0,Confirmed
+BK10617,Leisure,Standard,Direct Website,2025-05-12,95.0,4,2760.0,Confirmed
+BK10920,Leisure,Standard,Corporate,2025-09-19,71.0,2,2867.0,Confirmed
+BK10706,Business,Deluxe,Travel Agent,2025-07-30,118.0,4,4743.0,Canceled
+BK10778,Leisure,Deluxe,OTA,2025-02-26,44.0,6,4082.0,Confirmed
+BK10850,Leisure,Standard,OTA,2025-11-28,19.0,3,3113.0,Confirmed
+BK10712,Leisure,Deluxe,OTA,2025-10-07,42.0,1,4348.0,Canceled
+BK10431,Leisure,Deluxe,Travel Agent,2025-04-08,55.0,6,4811.0,Confirmed
+BK10846,Leisure,Standard,OTA,2025-04-11,31.0,3,2798.0,Canceled
+BK10447,Leisure,Deluxe,OTA,2025-07-15,21.0,2,5239.0,Canceled
+BK10065,Leisure,Deluxe,Direct Website,2025-03-19,51.0,1,4230.0,Confirmed
+BK10701,Leisure,Standard,Travel Agent,2025-10-23,57.0,1,2895.0,Confirmed
+BK10058,Leisure,Standard,OTA,2025-03-17,14.0,1,2678.0,Confirmed
+BK10180,Business,Suite,Direct Website,2025-11-07,24.0,3,8108.0,Confirmed
+BK10443,Leisure,Standard,OTA,2025-01-30,45.0,5,2659.0,Canceled
+BK10336,Leisure,Standard,OTA,2025-07-11,29.0,4,3053.0,Confirmed
+BK10844,Business,Standard,OTA,2025-06-25,99.0,4,2137.0,Confirmed
+BK10570,Business,Standard,Travel Agent,2025-11-26,27.0,4,2233.0,Confirmed
+BK10790,Leisure,Standard,Direct Website,2025-06-28,28.0,6,3562.0,Confirmed
+BK10073,Business,Standard,Direct Website,2025-09-18,11.0,3,2479.0,Canceled
+BK10901,Business,Standard,Direct Website,2025-08-20,8.0,3,2675.0,Confirmed
+BK10407,Business,Deluxe,OTA,2025-11-24,42.0,2,4487.0,Confirmed
+BK10328,Business,Deluxe,Direct Website,2025-04-11,68.0,3,4957.0,Confirmed
+BK10385,Business,Suite,Direct Website,2025-01-03,19.0,1,7182.0,Confirmed
+BK10971,Leisure,Standard,Travel Agent,2025-06-18,16.0,2,2572.0,Confirmed
+BK10499,Business,Deluxe,Direct Website,2025-05-05,75.0,1,3805.0,Confirmed
+BK10177,Leisure,Suite,OTA,2025-05-27,24.0,4,8515.0,Confirmed
+BK10246,Leisure,Deluxe,Travel Agent,2025-12-22,77.0,3,4115.0,Confirmed
+BK10085,Business,Standard,Travel Agent,2025-04-14,46.0,4,2837.0,Canceled
+BK10741,Leisure,Standard,Corporate,2025-06-28,46.0,7,3144.0,Confirmed
+BK10861,Business,Deluxe,Direct Website,2025-01-22,33.0,4,4027.0,Confirmed
+BK10586,Leisure,Standard,OTA,2025-06-24,8.0,6,2677.0,Canceled
+BK10128,Business,Standard,Travel Agent,2025-03-25,139.0,1,3212.0,Confirmed
+BK10906,Leisure,Standard,OTA,2025-11-06,37.0,1,2399.0,Confirmed
+BK10936,Business,Suite,Direct Website,2025-06-18,32.0,2,8367.0,Confirmed
+BK10263,Leisure,Standard,Travel Agent,2025-12-30,34.0,1,2615.0,Confirmed
+BK10773,Leisure,Deluxe,Corporate,2025-09-25,52.0,5,4290.0,Confirmed
+BK10145,Business,Standard,Direct Website,2025-10-20,75.0,3,2413.0,Canceled
+BK10759,Business,Standard,Direct Website,2025-11-18,8.0,3,2484.0,Confirmed
+BK10934,Leisure,Deluxe,OTA,2025-05-09,27.0,4,5079.0,Confirmed
+BK10472,Business,Standard,Direct Website,2025-05-15,21.0,2,,Confirmed
+BK10324,Leisure,Deluxe,Travel Agent,2025-09-10,53.0,4,4263.0,Confirmed
+BK10450,Leisure,Standard,OTA,2025-09-28,38.0,1,3134.0,Confirmed
+BK10416,Leisure,Standard,OTA,2025-07-19,57.0,1,2745.0,Canceled
+BK10523,Leisure,Deluxe,Direct Website,2025-11-01,40.0,1,4167.0,Confirmed
+BK10478,Leisure,Deluxe,Travel Agent,2025-02-22,11.0,7,,Confirmed
+BK10550,Business,Standard,Direct Website,2025-06-05,24.0,3,3241.0,Canceled
+BK10757,Leisure,Suite,OTA,2025-08-22,19.0,5,9650.0,Canceled
+BK10232,Leisure,Suite,OTA,2025-07-03,6.0,7,,Confirmed
+BK10869,Leisure,Standard,Direct Website,2025-02-16,45.0,2,2874.0,Confirmed
+BK10702,Business,Standard,OTA,2025-01-05,4.0,4,2565.0,Canceled
+BK10290,Business,Deluxe,Corporate,2025-09-10,58.0,3,4479.0,Confirmed
+BK10592,Leisure,Standard,OTA,2025-01-14,15.0,6,2751.0,Canceled
+BK10312,Leisure,Standard,Travel Agent,2025-07-07,34.0,1,2727.0,Confirmed
+BK10985,Leisure,Suite,Travel Agent,2025-04-09,72.0,1,6688.0,Canceled
+BK10922,Leisure,Deluxe,Travel Agent,2025-07-07,16.0,4,4793.0,Confirmed
+BK10487,Business,Standard,Corporate,2025-08-14,29.0,1,3293.0,Confirmed
+BK10794,Leisure,Standard,Direct Website,2025-04-25,22.0,2,2539.0,Canceled
+BK10620,Leisure,Deluxe,Travel Agent,2025-03-09,19.0,7,5009.0,Confirmed
+BK10983,Leisure,Standard,Travel Agent,2025-06-22,22.0,7,,Canceled
+BK10314,Leisure,Standard,OTA,2025-10-15,37.0,6,2071.0,Confirmed
+BK10028,Business,Standard,Direct Website,2025-06-05,17.0,3,2919.0,Confirmed
+BK10885,Business,Standard,OTA,2025-09-21,24.0,3,2699.0,Confirmed
+BK10027,Leisure,Standard,OTA,2025-05-08,25.0,1,2763.0,Canceled
+BK10048,Business,Deluxe,Direct Website,2025-02-12,15.0,4,3949.0,Confirmed
+BK10239,Leisure,Standard,OTA,2025-11-02,19.0,6,2561.0,Confirmed
+BK10599,Business,Deluxe,Corporate,2025-02-12,96.0,2,3872.0,Confirmed
+BK10777,Business,Standard,OTA,2025-09-25,59.0,2,3026.0,Canceled
+BK10030,Business,Deluxe,Corporate,2025-09-16,75.0,4,4565.0,Confirmed
+BK10293,Leisure,Standard,Direct Website,2025-05-08,,3,3136.0,Confirmed
+BK10889,Business,Deluxe,OTA,2025-06-21,105.0,3,4409.0,Confirmed
+BK10548,Business,Deluxe,OTA,2025-04-12,9.0,3,4614.0,Confirmed
+BK10507,Leisure,Deluxe,Corporate,2025-10-09,54.0,1,4397.0,Confirmed
+BK10189,Leisure,Standard,Direct Website,2025-04-22,18.0,6,2800.0,Confirmed
+BK10061,Leisure,Standard,Direct Website,2025-09-24,62.0,5,2798.0,Confirmed
+BK10968,Business,Deluxe,Direct Website,2025-02-17,50.0,4,5366.0,Confirmed
+BK10815,Leisure,Suite,OTA,2025-09-28,51.0,3,6015.0,Confirmed
+BK10121,Leisure,Deluxe,OTA,2025-08-06,48.0,1,4853.0,Canceled
+BK10406,Leisure,Standard,Direct Website,2025-11-28,26.0,1,2261.0,Confirmed
+BK10339,Business,Suite,Direct Website,2025-07-06,44.0,2,7484.0,Confirmed
+BK10051,Business,Standard,OTA,2025-10-05,11.0,2,2687.0,Confirmed
+BK10155,Leisure,Deluxe,OTA,2025-12-08,39.0,3,4095.0,Confirmed
+BK10525,Leisure,Standard,OTA,2025-01-10,24.0,3,2591.0,Canceled
+BK10673,Leisure,Deluxe,Corporate,2025-03-15,49.0,4,3706.0,Confirmed
+BK10010,Business,Standard,Direct Website,2025-05-29,32.0,1,2661.0,Confirmed
+BK10615,Leisure,Deluxe,OTA,2025-09-18,93.0,7,4797.0,Confirmed
+BK10440,Leisure,Suite,Travel Agent,2025-09-17,15.0,1,9165.0,Confirmed
+BK10567,Leisure,Standard,Direct Website,2025-01-12,45.0,4,3475.0,Confirmed
+BK10081,Leisure,Standard,Direct Website,2025-01-13,133.0,6,2479.0,Confirmed
+BK10703,Leisure,Suite,OTA,2025-01-08,55.0,5,8409.0,Confirmed
+BK10175,Leisure,Standard,Travel Agent,2025-04-01,45.0,6,2127.0,Confirmed
+BK10287,Leisure,Standard,OTA,2025-04-03,3.0,7,2556.0,Canceled
+BK10573,Leisure,Deluxe,Direct Website,2025-07-01,14.0,7,4359.0,Confirmed
+BK10243,Leisure,Deluxe,Direct Website,2025-05-12,85.0,4,4979.0,Confirmed
+BK10877,Leisure,Standard,Direct Website,2025-02-02,42.0,5,2360.0,Confirmed
+BK10358,Leisure,Standard,Direct Website,2025-05-17,7.0,2,3125.0,Confirmed
+BK10785,Leisure,Standard,Direct Website,2025-05-15,34.0,4,2579.0,Confirmed
+BK10247,Business,Standard,OTA,2025-12-24,44.0,3,1909.0,Confirmed
+BK10092,Business,Standard,Direct Website,2025-05-04,19.0,1,2949.0,Confirmed
+BK10782,Leisure,Standard,Direct Website,2025-08-27,15.0,2,3100.0,Canceled
+BK10103,Leisure,Suite,Direct Website,2025-12-15,13.0,2,8299.0,Confirmed
+BK10475,Business,Standard,OTA,2025-02-17,16.0,1,2333.0,Confirmed
+BK10468,Leisure,Standard,Direct Website,2025-07-29,26.0,3,2772.0,Confirmed
+BK10767,Leisure,Standard,OTA,2025-02-05,7.0,7,2626.0,Canceled
+BK10999,Business,Standard,Direct Website,2025-08-20,95.0,1,2880.0,Confirmed
+BK10977,Leisure,Standard,Direct Website,2025-04-03,20.0,6,2672.0,Confirmed
+BK10578,Business,Suite,Corporate,2025-01-20,111.0,2,8259.0,Confirmed
+BK10840,Leisure,Standard,OTA,2025-05-22,64.0,1,2800.0,Confirmed
+BK10235,Business,Deluxe,OTA,2025-03-01,11.0,3,4727.0,Confirmed
+BK10192,Business,Standard,Travel Agent,2025-07-23,43.0,3,2324.0,Confirmed
+BK10529,Business,Standard,Direct Website,2025-09-01,23.0,1,2908.0,Confirmed
+BK10255,Business,Deluxe,Direct Website,2025-05-21,38.0,2,4722.0,Confirmed
+BK10806,Leisure,Deluxe,OTA,2025-10-22,29.0,6,5421.0,Confirmed
+BK10851,Leisure,Standard,OTA,2025-07-12,57.0,5,2963.0,Canceled
+BK10091,Leisure,Deluxe,OTA,2025-11-02,50.0,4,4564.0,Canceled
+BK10623,Leisure,Standard,Travel Agent,2025-12-15,95.0,5,2334.0,Confirmed
+BK10144,Leisure,Standard,Travel Agent,2025-04-26,35.0,2,2709.0,Confirmed
+BK10542,Business,Deluxe,Travel Agent,2025-05-08,27.0,3,4571.0,Confirmed
+BK10808,Business,Deluxe,Travel Agent,2025-02-11,28.0,2,4660.0,Confirmed
+BK10898,Business,Standard,Direct Website,2025-06-11,38.0,3,2853.0,Confirmed
+BK10593,Business,Deluxe,Travel Agent,2025-08-16,68.0,4,4288.0,Confirmed
+BK10301,Leisure,Standard,Direct Website,2025-12-31,35.0,6,3018.0,Confirmed
+BK10671,Leisure,Deluxe,OTA,2025-11-29,48.0,3,4504.0,Confirmed
+BK10762,Business,Standard,OTA,2025-06-08,20.0,3,2813.0,Confirmed
+BK10896,Leisure,Standard,Direct Website,2025-03-10,14.0,5,3144.0,Canceled
+BK10457,Business,Standard,Direct Website,2025-10-09,79.0,2,2861.0,Confirmed
+BK10537,Business,Standard,Direct Website,2025-12-20,7.0,2,2729.0,Confirmed
+BK10910,Leisure,Deluxe,OTA,2025-08-02,83.0,5,5477.0,Confirmed
+BK10193,Leisure,Deluxe,OTA,2025-01-30,42.0,3,3859.0,Confirmed
+BK10086,Leisure,Deluxe,Travel Agent,2025-05-03,50.0,4,5820.0,Confirmed
+BK10264,Leisure,Suite,Direct Website,2025-04-06,27.0,6,7355.0,Confirmed
+BK10574,Leisure,Suite,Direct Website,2025-04-15,26.0,7,9357.0,Confirmed
+BK10101,Leisure,Deluxe,Direct Website,2025-05-11,67.0,7,5280.0,Confirmed
+BK10216,Business,Standard,Direct Website,2025-07-28,60.0,1,3013.0,Canceled
+BK10039,Leisure,Deluxe,Direct Website,2025-04-02,26.0,1,4862.0,Confirmed
+BK10705,Business,Deluxe,Travel Agent,2025-10-01,34.0,4,4573.0,Confirmed
+BK10016,Leisure,Deluxe,Corporate,2025-04-10,80.0,2,4897.0,Confirmed
+BK10522,Business,Standard,OTA,2025-03-04,19.0,1,2860.0,Canceled
+BK10400,Business,Standard,Direct Website,2025-07-16,20.0,2,3246.0,Confirmed
+BK10825,Leisure,Standard,OTA,2025-01-04,46.0,7,2892.0,Confirmed
+BK10266,Leisure,Standard,Travel Agent,2025-04-29,146.0,2,2829.0,Confirmed
+BK10136,Leisure,Suite,Direct Website,2025-12-15,42.0,5,9030.0,Confirmed
+BK10080,Business,Deluxe,Travel Agent,2025-09-04,23.0,4,4793.0,Canceled
+BK10126,Business,Standard,Direct Website,2025-09-09,17.0,4,2861.0,Confirmed
+BK10118,Business,Standard,Travel Agent,2025-07-13,9.0,1,2663.0,Confirmed
+BK10707,Leisure,Deluxe,Direct Website,2025-11-27,49.0,4,4377.0,Confirmed
+BK10804,Business,Standard,Corporate,2025-09-24,54.0,2,2824.0,Confirmed
+BK10354,Leisure,Standard,OTA,2025-03-23,60.0,4,,Confirmed
+BK10194,Leisure,Standard,Corporate,2025-09-26,34.0,6,2678.0,Confirmed
+BK10768,Leisure,Standard,Corporate,2025-03-23,79.0,6,3107.0,Confirmed
+BK10095,Leisure,Deluxe,Corporate,2025-10-30,18.0,4,4254.0,Confirmed
+BK10656,Leisure,Suite,OTA,2025-12-11,27.0,5,9699.0,Confirmed
+BK10536,Leisure,Deluxe,Direct Website,2025-05-24,22.0,7,4678.0,Canceled
+BK10796,Leisure,Standard,Direct Website,2025-06-02,35.0,4,2445.0,Confirmed
+BK10108,Business,Standard,Direct Website,2025-05-04,24.0,1,2876.0,Confirmed
+BK10854,Business,Standard,Direct Website,2025-12-01,151.0,4,3058.0,Confirmed
+BK10512,Leisure,Standard,OTA,2025-05-22,44.0,2,3373.0,Confirmed
+BK10682,Leisure,Standard,OTA,2025-11-24,23.0,6,2567.0,Confirmed
+BK10929,Leisure,Deluxe,Travel Agent,2025-08-16,75.0,3,3662.0,Confirmed
+BK10124,Business,Standard,OTA,2025-05-20,22.0,2,2803.0,Confirmed
+BK10801,Leisure,Standard,OTA,2025-04-14,24.0,7,2492.0,Confirmed
+BK10899,Leisure,Deluxe,Travel Agent,2025-12-26,61.0,7,4387.0,Canceled
+BK10041,Leisure,Deluxe,Direct Website,2025-05-25,44.0,1,4908.0,Confirmed
+BK10238,Leisure,Standard,Direct Website,2025-08-26,32.0,3,2573.0,Confirmed
+BK10005,Leisure,Suite,OTA,2025-11-22,35.0,5,8728.0,Confirmed
+BK10064,Business,Deluxe,OTA,2025-09-30,61.0,1,4609.0,Confirmed
+BK10534,Leisure,Standard,Direct Website,2025-01-14,8.0,3,2590.0,Canceled
+BK10045,Leisure,Deluxe,Corporate,2025-06-15,26.0,5,4230.0,Confirmed
+BK10873,Leisure,Standard,OTA,2025-06-12,34.0,5,2603.0,Confirmed
+BK10886,Business,Standard,Corporate,2025-07-03,14.0,2,3026.0,Confirmed
+BK10003,Leisure,Deluxe,Direct Website,2025-04-26,45.0,7,4347.0,Confirmed
+BK10411,Leisure,Deluxe,Travel Agent,2025-10-03,,1,4657.0,Confirmed
+BK10370,Leisure,Deluxe,OTA,2025-11-05,31.0,4,4855.0,Canceled
+BK10330,Leisure,Deluxe,Direct Website,2025-03-13,22.0,4,4143.0,Confirmed
+BK10429,Business,Deluxe,OTA,2025-09-06,,2,4825.0,Confirmed
+BK10591,Leisure,Standard,Travel Agent,2025-01-30,14.0,7,3072.0,Confirmed
+BK10437,Business,Deluxe,Direct Website,2025-11-25,34.0,4,4186.0,Canceled
+BK10195,Business,Standard,Direct Website,2025-01-11,33.0,3,2714.0,Confirmed
+BK10628,Leisure,Deluxe,OTA,2025-11-30,23.0,4,4744.0,Canceled
+BK10852,Leisure,Suite,Direct Website,2025-07-03,,6,8234.0,Confirmed
+BK10838,Business,Standard,Travel Agent,2025-06-18,29.0,4,2155.0,Confirmed
+BK10784,Leisure,Suite,Direct Website,2025-08-23,54.0,5,7869.0,Confirmed
+BK10994,Leisure,Suite,Direct Website,2025-09-03,35.0,2,7847.0,Confirmed
+BK10498,Leisure,Standard,OTA,2025-06-24,43.0,2,2814.0,Confirmed
+BK10321,Business,Standard,Direct Website,2025-11-14,42.0,2,3473.0,Confirmed
+BK10735,Leisure,Deluxe,Travel Agent,2025-02-16,73.0,5,4576.0,Confirmed
+BK10350,Business,Deluxe,OTA,2025-12-27,97.0,3,4703.0,Canceled
+BK10868,Business,Standard,Direct Website,2025-02-28,7.0,1,2830.0,Confirmed
+BK10454,Leisure,Standard,OTA,2025-02-01,88.0,2,,Confirmed
+BK10164,Leisure,Deluxe,OTA,2025-02-19,47.0,7,4358.0,Confirmed
+BK10797,Leisure,Standard,OTA,2025-02-07,22.0,4,2447.0,Confirmed
+BK10357,Business,Deluxe,OTA,2025-08-24,13.0,1,4624.0,Confirmed
+BK10565,Business,Deluxe,OTA,2025-12-20,13.0,1,5030.0,Confirmed
+BK10957,Leisure,Deluxe,Travel Agent,2025-09-11,65.0,6,4470.0,Confirmed
+BK10078,Leisure,Deluxe,Direct Website,2025-10-08,67.0,5,4036.0,Confirmed
+BK10109,Business,Suite,Direct Website,2025-06-10,5.0,2,9845.0,Confirmed
+BK10201,Business,Suite,OTA,2025-02-22,68.0,4,8080.0,Canceled
+BK10111,Business,Standard,Travel Agent,2025-12-06,6.0,2,2603.0,Confirmed
+BK10143,Business,Deluxe,OTA,2025-11-17,30.0,4,5303.0,Canceled
+BK10524,Leisure,Standard,OTA,2025-11-14,19.0,4,2792.0,Confirmed
+BK10206,Business,Standard,Travel Agent,2025-12-15,37.0,4,2465.0,Confirmed
+BK10546,Business,Standard,Direct Website,2025-06-06,,4,2129.0,Confirmed
+BK10811,Leisure,Standard,OTA,2025-07-18,43.0,7,2423.0,Canceled
+BK10600,Leisure,Standard,Travel Agent,2025-06-28,59.0,2,2854.0,Confirmed
+BK10359,Business,Deluxe,OTA,2025-10-07,11.0,2,4658.0,Confirmed
+BK10102,Leisure,Standard,Direct Website,2025-01-17,43.0,7,2774.0,Confirmed
+BK10870,Leisure,Deluxe,Direct Website,2025-01-08,58.0,7,4360.0,Confirmed
+BK10046,Leisure,Standard,OTA,2025-12-29,39.0,3,2244.0,Confirmed
+BK10004,Leisure,Standard,OTA,2025-11-09,75.0,1,2764.0,Confirmed
+BK10543,Leisure,Suite,OTA,2025-03-02,18.0,6,8569.0,Confirmed
+BK10386,Leisure,Deluxe,OTA,2025-03-13,10.0,7,4690.0,Confirmed
+BK10123,Leisure,Standard,Travel Agent,2025-08-02,18.0,4,2600.0,Confirmed
+BK10595,Business,Standard,OTA,2025-07-29,62.0,3,2526.0,Confirmed
+BK10288,Leisure,Deluxe,OTA,2025-09-15,22.0,4,4161.0,Confirmed
+BK10456,Business,Suite,Direct Website,2025-02-27,,3,9929.0,Confirmed
+BK10227,Business,Deluxe,OTA,2025-06-29,23.0,1,5544.0,Confirmed
+BK10527,Business,Suite,Direct Website,2025-01-09,29.0,1,8139.0,Canceled
+BK10211,Leisure,Deluxe,OTA,2025-12-29,15.0,2,4698.0,Confirmed
+BK10381,Business,Suite,Travel Agent,2025-09-13,44.0,2,,Confirmed
+BK10931,Business,Standard,Travel Agent,2025-11-20,151.0,3,2649.0,Confirmed
+BK10823,Leisure,Deluxe,Direct Website,2025-09-06,21.0,3,3604.0,Confirmed
+BK10669,Leisure,Standard,OTA,2025-07-02,,3,2207.0,Canceled
+BK10666,Leisure,Deluxe,Direct Website,2025-02-16,28.0,1,4491.0,Confirmed
+BK10942,Business,Standard,Direct Website,2025-03-26,133.0,3,2946.0,Confirmed
+BK10505,Leisure,Deluxe,Direct Website,2025-10-24,75.0,4,4493.0,Confirmed
+BK10642,Business,Standard,OTA,2025-02-23,28.0,3,2671.0,Canceled
+BK10745,Business,Standard,Corporate,2025-07-17,10.0,3,3015.0,Confirmed
+BK10713,Leisure,Suite,OTA,2025-04-18,38.0,3,6969.0,Confirmed
+BK10884,Leisure,Standard,OTA,2025-05-02,21.0,4,2878.0,Canceled
+BK10214,Leisure,Deluxe,Travel Agent,2025-06-13,36.0,4,4962.0,Confirmed
+BK10137,Leisure,Standard,Direct Website,2025-07-30,4.0,2,,Confirmed
+BK10913,Leisure,Suite,Travel Agent,2025-09-14,,1,9239.0,Confirmed
+BK10632,Leisure,Standard,Travel Agent,2025-04-19,19.0,7,2441.0,Confirmed
+BK10464,Business,Deluxe,Travel Agent,2025-10-19,7.0,2,3998.0,Confirmed
+BK10134,Leisure,Deluxe,OTA,2025-01-03,16.0,3,4832.0,Confirmed
+BK10674,Business,Deluxe,Travel Agent,2025-01-06,48.0,2,4772.0,Confirmed
+BK10924,Leisure,Standard,Direct Website,2025-11-14,142.0,6,2537.0,Confirmed
+BK10857,Business,Suite,OTA,2025-03-03,,2,7603.0,Confirmed
+BK10146,Leisure,Standard,Travel Agent,2025-06-17,100.0,1,2719.0,Confirmed
+BK10814,Leisure,Standard,OTA,2025-07-28,37.0,6,2832.0,Canceled
+BK10518,Leisure,Standard,Direct Website,2025-08-14,31.0,2,,Confirmed
+BK10237,Leisure,Deluxe,Travel Agent,2025-03-10,13.0,6,4149.0,Confirmed
+BK10563,Business,Deluxe,Direct Website,2025-03-14,5.0,2,4800.0,Confirmed
+BK10371,Business,Standard,Travel Agent,2025-12-14,35.0,2,3711.0,Confirmed
+BK10392,Leisure,Deluxe,OTA,2025-07-15,70.0,6,4363.0,Confirmed
+BK10654,Business,Suite,OTA,2025-05-19,45.0,3,8547.0,Confirmed
+BK10630,Leisure,Suite,Corporate,2025-12-04,123.0,5,8743.0,Confirmed
+BK10105,Leisure,Deluxe,OTA,2025-12-25,13.0,1,4376.0,Confirmed
+BK10163,Leisure,Standard,Direct Website,2025-07-26,27.0,2,2500.0,Confirmed
+BK10533,Leisure,Deluxe,Corporate,2025-09-23,6.0,2,4194.0,Confirmed
+BK10349,Leisure,Standard,OTA,2025-10-13,19.0,4,2732.0,Confirmed
+BK10127,Business,Standard,Corporate,2025-11-20,35.0,4,2580.0,Confirmed
+BK10716,Leisure,Deluxe,Direct Website,2025-02-04,11.0,4,5163.0,Confirmed
+BK10649,Leisure,Standard,OTA,2025-05-29,23.0,6,3779.0,Confirmed
+BK10962,Leisure,Standard,Direct Website,2025-12-17,63.0,2,3046.0,Canceled
+BK10399,Business,Standard,Corporate,2025-09-02,71.0,2,2421.0,Confirmed
+BK10986,Leisure,Standard,OTA,2025-01-20,32.0,4,2580.0,Canceled
+BK10993,Leisure,Standard,OTA,2025-07-27,46.0,3,,Confirmed
+BK10031,Leisure,Suite,Direct Website,2025-02-03,41.0,3,8633.0,Confirmed
+BK10333,Leisure,Suite,OTA,2025-06-11,26.0,7,8555.0,Confirmed
+BK10539,Leisure,Deluxe,Direct Website,2025-10-26,46.0,5,3362.0,Canceled
+BK10665,Leisure,Deluxe,Travel Agent,2025-10-11,37.0,2,4579.0,Confirmed
+BK10624,Leisure,Suite,Direct Website,2025-03-03,15.0,4,7062.0,Confirmed
+BK10112,Leisure,Standard,Corporate,2025-12-16,87.0,1,3282.0,Confirmed
+BK10803,Leisure,Deluxe,Corporate,2025-07-03,59.0,6,4256.0,Confirmed
+BK10132,Leisure,Deluxe,Travel Agent,2025-05-26,59.0,1,5171.0,Confirmed
+BK10974,Leisure,Standard,OTA,2025-05-20,75.0,2,2832.0,Canceled
+BK10304,Leisure,Suite,Direct Website,2025-07-18,86.0,3,9978.0,Confirmed
+BK10722,Business,Standard,Direct Website,2025-11-01,30.0,4,3093.0,Confirmed
+BK10575,Business,Deluxe,Corporate,2025-08-19,3.0,1,4628.0,Confirmed
+BK10439,Business,Deluxe,OTA,2025-11-05,31.0,1,11595.0,Canceled
+BK10389,Leisure,Suite,Corporate,2025-12-22,41.0,2,8116.0,Confirmed
+BK10261,Leisure,Deluxe,Direct Website,2025-01-14,13.0,1,4802.0,Confirmed
+BK10294,Leisure,Deluxe,OTA,2025-05-06,29.0,4,4553.0,Confirmed
+BK10209,Leisure,Deluxe,OTA,2025-02-15,31.0,3,4089.0,Confirmed
+BK10637,Leisure,Deluxe,OTA,2025-01-26,13.0,3,4331.0,Canceled
+BK10415,Leisure,Standard,Corporate,2025-12-06,29.0,5,2693.0,Confirmed
+BK10477,Business,Deluxe,Direct Website,2025-10-18,126.0,3,4422.0,Confirmed
+BK10347,Leisure,Standard,OTA,2025-11-08,23.0,2,2990.0,Confirmed
+BK10159,Leisure,Deluxe,Corporate,2025-01-10,13.0,2,5457.0,Confirmed
+BK10818,Business,Deluxe,OTA,2025-11-27,43.0,2,5155.0,Confirmed
+BK10596,Leisure,Deluxe,Direct Website,2025-12-14,27.0,6,3881.0,Confirmed
+BK10097,Business,Standard,Direct Website,2025-11-07,14.0,2,2583.0,Confirmed
+BK10893,Leisure,Standard,OTA,2025-07-28,,1,3020.0,Canceled
+BK10458,Business,Deluxe,OTA,2025-02-18,10.0,1,4008.0,Confirmed
+BK10279,Leisure,Suite,Travel Agent,2025-05-23,32.0,6,8080.0,Confirmed
+BK10878,Leisure,Deluxe,OTA,2025-02-09,19.0,2,3400.0,Confirmed
+BK10186,Leisure,Standard,Travel Agent,2025-10-06,27.0,3,2611.0,Confirmed
+BK10941,Leisure,Deluxe,Corporate,2025-02-15,,2,4246.0,Confirmed
+BK10391,Leisure,Standard,Corporate,2025-08-13,55.0,2,2662.0,Confirmed
+BK10224,Leisure,Standard,OTA,2025-09-20,12.0,5,3139.0,Confirmed
+BK10014,Business,Standard,Direct Website,2025-01-05,17.0,2,2286.0,Confirmed
+BK10170,Leisure,Standard,Direct Website,2025-02-27,19.0,4,2813.0,Confirmed
+BK10812,Leisure,Suite,OTA,2025-06-25,15.0,2,9992.0,Confirmed
+BK10376,Leisure,Suite,Direct Website,2025-09-14,58.0,1,7963.0,Confirmed
+BK10115,Business,Suite,OTA,2025-09-14,81.0,2,8941.0,Confirmed
+BK10446,Leisure,Suite,Travel Agent,2025-08-28,115.0,5,9786.0,Confirmed
+BK10633,Leisure,Standard,Travel Agent,2025-01-16,32.0,2,2782.0,Confirmed
+BK10571,Leisure,Deluxe,Travel Agent,2025-02-16,35.0,4,,Confirmed
+BK10019,Leisure,Deluxe,Travel Agent,2025-05-20,14.0,6,3742.0,Canceled
+BK10107,Leisure,Standard,OTA,2025-02-27,28.0,1,2493.0,Confirmed
+BK10368,Leisure,Standard,Travel Agent,2025-06-25,66.0,6,3425.0,Confirmed
+BK10532,Leisure,Standard,OTA,2025-01-18,51.0,2,2403.0,Canceled
+BK10236,Leisure,Standard,Corporate,2025-09-26,35.0,3,2766.0,Confirmed
+BK10506,Leisure,Standard,Corporate,2025-10-15,89.0,6,2041.0,Confirmed
+BK10837,Leisure,Suite,OTA,2025-10-25,21.0,5,8594.0,Confirmed
+BK10233,Leisure,Deluxe,OTA,2025-04-06,38.0,3,3786.0,Confirmed
+BK10229,Leisure,Standard,OTA,2025-06-19,47.0,1,2387.0,Confirmed
+BK10589,Leisure,Standard,OTA,2025-04-27,48.0,6,2555.0,Confirmed
+BK10905,Leisure,Deluxe,OTA,2025-09-04,34.0,2,4167.0,Confirmed
+BK10319,Leisure,Suite,Direct Website,2025-07-17,58.0,7,7147.0,Confirmed
+BK10780,Leisure,Standard,Corporate,2025-01-18,,2,2905.0,Confirmed
+BK10584,Business,Suite,Direct Website,2025-05-05,55.0,1,7761.0,Confirmed
+BK10409,Business,Suite,Travel Agent,2025-05-09,131.0,4,9067.0,Canceled
+BK10835,Leisure,Deluxe,Corporate,2025-05-13,89.0,6,4336.0,Confirmed
+BK10410,Leisure,Deluxe,Travel Agent,2025-01-19,24.0,2,4596.0,Confirmed
+BK10821,Leisure,Deluxe,OTA,2025-05-09,29.0,3,4663.0,Confirmed
+BK10059,Leisure,Standard,Direct Website,2025-12-09,29.0,7,2067.0,Confirmed
+BK10362,Business,Standard,Direct Website,2025-10-13,20.0,4,3049.0,Canceled
+BK10775,Business,Suite,OTA,2025-11-08,13.0,3,9017.0,Canceled
+BK10927,Leisure,Suite,Travel Agent,2025-11-29,22.0,6,8228.0,Confirmed
+BK10116,Business,Deluxe,OTA,2025-09-05,47.0,3,4533.0,Canceled
+BK10068,Leisure,Standard,Travel Agent,2025-03-08,38.0,3,2800.0,Confirmed
+BK10658,Leisure,Deluxe,Travel Agent,2025-01-23,7.0,6,5111.0,Confirmed
+BK10668,Leisure,Standard,Direct Website,2025-01-13,31.0,7,3164.0,Confirmed
+BK10360,Leisure,Suite,Travel Agent,2025-08-10,11.0,3,6879.0,Confirmed
+BK10640,Leisure,Deluxe,Travel Agent,2025-07-20,64.0,2,4605.0,Confirmed
+BK10387,Leisure,Suite,Direct Website,2025-11-06,29.0,3,10451.0,Confirmed
+BK10629,Business,Deluxe,Travel Agent,2025-11-28,120.0,3,,Confirmed
+BK10037,Leisure,Standard,OTA,2025-05-26,41.0,1,2801.0,Confirmed
+BK10700,Leisure,Standard,OTA,2025-07-17,33.0,2,2801.0,Canceled
+BK10652,Leisure,Deluxe,OTA,2025-05-11,51.0,5,4089.0,Confirmed
+BK10106,Leisure,Standard,OTA,2025-07-27,30.0,1,2265.0,Confirmed
+BK10770,Leisure,Standard,Travel Agent,2025-12-01,102.0,5,2736.0,Confirmed
+BK10351,Leisure,Standard,OTA,2025-12-17,14.0,4,2301.0,Confirmed
+BK10356,Leisure,Deluxe,Travel Agent,2025-03-13,58.0,6,3656.0,Confirmed
+BK10323,Leisure,Deluxe,Direct Website,2025-11-29,0.0,5,4592.0,Confirmed
+BK10585,Leisure,Deluxe,Direct Website,2025-09-26,14.0,3,4186.0,Confirmed
+BK10251,Leisure,Suite,OTA,2025-06-12,38.0,1,7281.0,Confirmed
+BK10715,Business,Standard,OTA,2025-09-23,31.0,3,2619.0,Confirmed
+BK10787,Leisure,Standard,Travel Agent,2025-08-06,111.0,1,3169.0,Confirmed
+BK10678,Leisure,Standard,OTA,2025-09-27,61.0,1,2818.0,Confirmed
+BK10055,Business,Deluxe,OTA,2025-05-24,18.0,3,4721.0,Confirmed
+BK10215,Leisure,Deluxe,Travel Agent,2025-03-05,13.0,7,4068.0,Canceled
+BK10338,Business,Standard,Corporate,2025-02-19,26.0,1,1966.0,Confirmed
+BK10723,Leisure,Suite,Travel Agent,2025-06-12,37.0,1,7954.0,Confirmed
+BK10056,Leisure,Standard,Corporate,2025-10-18,36.0,5,3007.0,Confirmed
+BK10552,Leisure,Standard,Travel Agent,2025-03-19,62.0,4,2150.0,Confirmed
+BK10960,Leisure,Deluxe,OTA,2025-05-02,39.0,4,3951.0,Confirmed
+BK10169,Leisure,Suite,Corporate,2025-10-21,23.0,2,8563.0,Confirmed
+BK10291,Business,Standard,Direct Website,2025-02-02,94.0,4,3385.0,Confirmed
+BK10181,Business,Suite,Corporate,2025-07-25,18.0,1,9539.0,Confirmed
+BK10053,Business,Deluxe,Travel Agent,2025-04-03,18.0,4,4684.0,Confirmed
+BK10449,Business,Deluxe,OTA,2025-06-23,33.0,3,5704.0,Confirmed
+BK10879,Leisure,Deluxe,OTA,2025-01-06,21.0,3,4518.0,Confirmed
+BK10346,Business,Suite,Direct Website,2025-04-27,79.0,2,8912.0,Confirmed
+BK10752,Business,Standard,Travel Agent,2025-10-31,52.0,1,2350.0,Confirmed
+BK10151,Business,Suite,Direct Website,2025-12-22,19.0,3,8859.0,Confirmed
+BK10562,Leisure,Deluxe,Direct Website,2025-11-26,16.0,3,4833.0,Confirmed
+BK10230,Business,Standard,OTA,2025-01-08,56.0,4,2489.0,Confirmed
+BK10783,Leisure,Deluxe,OTA,2025-10-04,62.0,2,4082.0,Confirmed
+BK10569,Leisure,Deluxe,OTA,2025-09-01,34.0,5,4905.0,Confirmed
+BK10769,Business,Deluxe,OTA,2025-06-04,28.0,4,3761.0,Confirmed
+BK10871,Business,Standard,Corporate,2025-03-10,21.0,4,3297.0,Confirmed
+BK10188,Leisure,Deluxe,Direct Website,2025-09-23,23.0,7,4560.0,Confirmed
+BK10388,Leisure,Standard,OTA,2025-10-15,71.0,5,2957.0,Confirmed
+BK10908,Leisure,Standard,OTA,2025-08-15,73.0,5,2186.0,Confirmed
+BK10855,Leisure,Standard,Direct Website,2025-01-09,,7,3211.0,Confirmed
+BK10185,Leisure,Deluxe,OTA,2025-05-08,35.0,6,4647.0,Confirmed
+BK10043,Business,Standard,Direct Website,2025-10-25,38.0,1,,Confirmed
+BK10401,Leisure,Suite,Direct Website,2025-08-12,61.0,5,9771.0,Confirmed
+BK10606,Business,Suite,OTA,2025-02-21,41.0,2,8487.0,Confirmed
+BK10610,Leisure,Deluxe,Direct Website,2025-08-28,45.0,4,5056.0,Confirmed
+BK10142,Leisure,Suite,OTA,2025-12-31,42.0,3,9357.0,Confirmed
+BK10949,Leisure,Standard,Direct Website,2025-11-25,110.0,2,,Confirmed
+BK10709,Business,Standard,Travel Agent,2025-07-10,42.0,3,3132.0,Confirmed
+BK10802,Leisure,Suite,Direct Website,2025-07-16,35.0,6,11366.0,Canceled
+BK10352,Business,Deluxe,OTA,2025-04-21,51.0,4,5143.0,Confirmed
+BK10317,Business,Deluxe,OTA,2025-12-24,104.0,1,,Canceled
+BK10322,Leisure,Standard,Travel Agent,2025-01-25,48.0,2,3077.0,Confirmed
+BK10792,Leisure,Standard,OTA,2025-03-29,20.0,3,2824.0,Canceled
+BK10755,Leisure,Standard,OTA,2025-09-25,29.0,3,2577.0,Confirmed
+BK10719,Leisure,Suite,OTA,2025-08-16,28.0,4,7951.0,Canceled
+BK10644,Leisure,Deluxe,OTA,2025-01-29,11.0,3,4364.0,Canceled
+BK10329,Leisure,Standard,Direct Website,2025-03-10,15.0,4,2271.0,Canceled
+BK10954,Leisure,Suite,OTA,2025-02-01,24.0,7,9547.0,Confirmed
+BK10150,Business,Deluxe,OTA,2025-04-22,45.0,3,4305.0,Confirmed
+BK10799,Business,Deluxe,Corporate,2025-09-25,45.0,2,3843.0,Confirmed
+BK10067,Leisure,Standard,OTA,2025-02-12,19.0,6,2623.0,Canceled
+BK10729,Leisure,Deluxe,Direct Website,2025-03-18,20.0,5,4248.0,Canceled
+BK10554,Leisure,Standard,OTA,2025-11-20,13.0,7,1876.0,Confirmed
+BK10748,Business,Deluxe,Travel Agent,2025-08-07,12.0,2,4568.0,Confirmed
+BK10904,Leisure,Suite,Direct Website,2025-12-19,37.0,7,7927.0,Confirmed
+BK10479,Business,Standard,OTA,2025-07-15,9.0,1,3581.0,Canceled
+BK10327,Leisure,Deluxe,Travel Agent,2025-12-05,42.0,3,4639.0,Confirmed
+BK10514,Business,Standard,Corporate,2025-04-13,29.0,2,2989.0,Confirmed
+BK10488,Business,Deluxe,OTA,2025-11-28,50.0,3,4438.0,Confirmed
+BK10683,Business,Standard,Travel Agent,2025-06-16,7.0,4,2630.0,Confirmed
+BK10557,Leisure,Standard,Travel Agent,2025-04-15,59.0,4,2657.0,Confirmed
+BK10651,Leisure,Suite,OTA,2025-07-18,75.0,4,8830.0,Confirmed
+BK10849,Leisure,Suite,Direct Website,2025-05-14,63.0,3,9178.0,Confirmed
+BK10791,Leisure,Standard,Travel Agent,2025-07-15,58.0,1,2454.0,Confirmed
+BK10466,Business,Deluxe,Travel Agent,2025-02-12,62.0,3,3617.0,Confirmed
+BK10697,Business,Deluxe,Corporate,2025-09-30,82.0,4,5143.0,Confirmed
+BK10820,Business,Standard,Travel Agent,2025-12-14,50.0,1,2265.0,Confirmed
+BK10131,Leisure,Suite,Direct Website,2025-10-06,124.0,2,9493.0,Confirmed
+BK10810,Leisure,Standard,Direct Website,2025-08-27,32.0,5,2871.0,Confirmed
+BK10296,Business,Suite,Direct Website,2025-01-03,65.0,4,8044.0,Confirmed
+BK10283,Business,Standard,OTA,2025-08-13,26.0,3,3125.0,Confirmed
+BK10842,Business,Deluxe,OTA,2025-07-10,29.0,1,5019.0,Confirmed
+BK10417,Leisure,Deluxe,OTA,2025-03-18,13.0,4,3554.0,Confirmed
+BK10746,Leisure,Standard,OTA,2025-02-28,40.0,3,2762.0,Confirmed
+BK10130,Leisure,Standard,OTA,2025-08-26,25.0,1,2966.0,Confirmed
+BK10556,Business,Standard,OTA,2025-05-12,4.0,2,2737.0,Canceled
+BK10445,Business,Deluxe,Travel Agent,2025-05-11,23.0,1,3653.0,Confirmed
+BK10114,Business,Standard,OTA,2025-08-02,21.0,2,2749.0,Confirmed
+BK10521,Leisure,Standard,OTA,2025-08-02,52.0,1,7275.0,Canceled
+BK10528,Leisure,Deluxe,OTA,2025-06-17,66.0,4,3904.0,Confirmed
+BK10555,Leisure,Standard,OTA,2025-06-07,29.0,2,2721.0,Confirmed
+BK10829,Leisure,Standard,OTA,2025-04-11,61.0,6,2690.0,Canceled
+BK10427,Business,Deluxe,OTA,2025-05-14,8.0,2,3490.0,Confirmed
+BK10271,Business,Standard,Travel Agent,2025-05-08,49.0,3,3008.0,Confirmed
+BK10313,Leisure,Standard,Direct Website,2025-12-24,26.0,4,3201.0,Confirmed
+BK10377,Leisure,Standard,Direct Website,2025-09-02,17.0,2,2453.0,Canceled
+BK10469,Leisure,Deluxe,OTA,2025-11-12,118.0,3,4262.0,Canceled
+BK10708,Business,Standard,OTA,2025-08-04,44.0,4,2257.0,Confirmed
+BK10428,Leisure,Standard,OTA,2025-11-30,39.0,1,3426.0,Confirmed
+BK10284,Business,Deluxe,OTA,2025-02-17,15.0,2,5319.0,Confirmed
+BK10129,Leisure,Deluxe,Direct Website,2025-04-18,44.0,4,5353.0,Canceled
+BK10395,Leisure,Standard,Direct Website,2025-04-17,56.0,4,2218.0,Confirmed
+BK10876,Leisure,Standard,Corporate,2025-10-06,66.0,6,2297.0,Canceled
+BK10393,Leisure,Deluxe,OTA,2025-07-06,58.0,2,4296.0,Confirmed
+BK10326,Business,Deluxe,Travel Agent,2025-09-19,31.0,4,3350.0,Canceled
+BK10997,Leisure,Standard,Direct Website,2025-08-19,35.0,7,2553.0,Confirmed
+BK10210,Leisure,Deluxe,OTA,2025-03-02,21.0,7,4580.0,Canceled
+BK10638,Business,Deluxe,Direct Website,2025-10-28,48.0,2,5233.0,Confirmed
+BK10939,Leisure,Standard,Corporate,2025-04-17,72.0,1,2811.0,Confirmed
+BK10179,Business,Deluxe,OTA,2025-10-17,58.0,3,4755.0,Confirmed
+BK10710,Business,Suite,Direct Website,2025-03-19,71.0,2,8872.0,Confirmed
+BK10040,Leisure,Standard,Corporate,2025-10-18,16.0,6,2674.0,Confirmed
+BK10306,Leisure,Standard,Direct Website,2025-01-15,8.0,3,2925.0,Canceled
+BK10680,Business,Standard,OTA,2025-11-09,19.0,1,3193.0,Canceled
+BK10373,Leisure,Standard,Direct Website,2025-02-07,25.0,1,2532.0,Canceled
+BK10204,Leisure,Standard,Travel Agent,2025-11-09,90.0,4,2159.0,Confirmed
+BK10826,Business,Deluxe,Direct Website,2025-03-07,,1,4338.0,Confirmed
+BK10933,Business,Deluxe,Corporate,2025-07-17,80.0,3,4201.0,Confirmed
+BK10272,Leisure,Standard,OTA,2025-07-12,26.0,6,3321.0,Canceled
+BK10008,Leisure,Standard,OTA,2025-08-02,77.0,6,2450.0,Confirmed
+BK10355,Leisure,Deluxe,Direct Website,2025-10-08,44.0,7,4488.0,Confirmed
+BK10817,Leisure,Deluxe,Direct Website,2025-08-04,100.0,5,4871.0,Confirmed
+BK10142,Leisure,Suite,OTA,2025-12-31,42.0,3,9357.0,Confirmed
+BK10070,Business,Standard,OTA,2025-04-30,31.0,3,2613.0,Canceled
+BK10397,Business,Standard,OTA,2025-05-11,17.0,3,2672.0,Confirmed
+BK10923,Leisure,Deluxe,Direct Website,2025-01-18,42.0,5,5053.0,Confirmed
+BK10730,Leisure,Standard,Direct Website,2025-02-05,62.0,5,3598.0,Canceled
+BK10646,Leisure,Standard,Travel Agent,2025-12-16,14.0,7,2826.0,Confirmed
+BK10139,Leisure,Standard,Direct Website,2025-03-21,27.0,7,2344.0,Confirmed
+BK10168,Leisure,Standard,Direct Website,2025-09-17,41.0,2,3233.0,Confirmed
+BK10007,Business,Deluxe,OTA,2025-12-11,16.0,3,3960.0,Canceled
+BK10841,Leisure,Deluxe,OTA,2025-06-13,47.0,1,4521.0,Confirmed
+BK10856,Leisure,Deluxe,Direct Website,2025-07-20,22.0,7,4848.0,Confirmed
+BK10771,Leisure,Deluxe,Direct Website,2025-05-22,18.0,6,4057.0,Confirmed
+BK10093,Business,Standard,OTA,2025-10-22,17.0,4,2748.0,Confirmed
+BK10526,Leisure,Suite,Corporate,2025-12-21,25.0,5,7407.0,Confirmed
+BK10900,Leisure,Standard,Corporate,2025-07-14,44.0,6,3028.0,Canceled
+BK10687,Business,Suite,Direct Website,2025-08-09,63.0,4,20647.5,Confirmed
+BK10491,Business,Deluxe,OTA,2025-03-18,52.0,2,5464.0,Confirmed
+BK10079,Leisure,Deluxe,Direct Website,2025-11-29,16.0,2,4210.0,Canceled
+BK10549,Leisure,Standard,Corporate,2025-08-20,33.0,1,2560.0,Confirmed
+BK10955,Leisure,Suite,Travel Agent,2025-03-20,37.0,3,6540.0,Confirmed
+BK10342,Leisure,Deluxe,OTA,2025-02-08,110.0,1,4312.0,Canceled
+BK10461,Business,Standard,Direct Website,2025-03-06,,1,3020.0,Confirmed
+BK10973,Leisure,Suite,OTA,2025-08-26,72.0,2,7200.0,Confirmed
+BK10049,Leisure,Standard,OTA,2025-04-14,19.0,1,2818.0,Confirmed
+BK10736,Leisure,Standard,Travel Agent,2025-04-14,27.0,5,2019.0,Confirmed
+BK10250,Business,Deluxe,OTA,2025-04-29,14.0,2,3285.0,Confirmed
+BK10147,Leisure,Deluxe,OTA,2025-11-05,95.0,7,4555.0,Confirmed
+BK10390,Business,Deluxe,OTA,2025-08-08,30.0,3,4226.0,Canceled
+BK10976,Leisure,Standard,OTA,2025-08-25,23.0,7,2067.0,Canceled
+BK10964,Leisure,Suite,Direct Website,2025-07-05,20.0,1,8088.0,Canceled
+BK10057,Leisure,Deluxe,Direct Website,2025-11-18,33.0,5,3362.0,Confirmed
+BK10921,Leisure,Deluxe,Direct Website,2025-10-12,16.0,1,3657.0,Confirmed
+BK10831,Leisure,Deluxe,OTA,2025-05-04,72.0,6,4196.0,Confirmed
+BK10135,Leisure,Standard,Travel Agent,2025-04-17,6.0,1,3001.0,Canceled
+BK10860,Business,Deluxe,Direct Website,2025-04-18,4.0,2,5342.0,Confirmed
+BK10894,Leisure,Deluxe,OTA,2025-09-25,27.0,3,3914.0,Confirmed
+BK10963,Leisure,Standard,OTA,2025-08-13,32.0,4,2222.0,Confirmed
+BK10382,Leisure,Deluxe,Travel Agent,2025-12-27,14.0,1,4441.0,Confirmed
+BK10025,Business,Standard,Direct Website,2025-07-10,56.0,4,3403.0,Confirmed
+BK10047,Leisure,Standard,Corporate,2025-05-26,9.0,7,2449.0,Confirmed
+BK10733,Business,Standard,Direct Website,2025-07-13,19.0,1,2421.0,Confirmed
+BK10174,Leisure,Standard,OTA,2025-09-18,45.0,2,2021.0,Canceled
+BK10029,Leisure,Deluxe,OTA,2025-01-06,12.0,5,4914.0,Confirmed
+BK10153,Business,Deluxe,Direct Website,2025-06-07,14.0,3,4743.0,Confirmed
+BK10530,Business,Deluxe,OTA,2025-04-30,37.0,4,3879.0,Confirmed
+BK10558,Business,Deluxe,Direct Website,2025-08-29,32.0,4,5083.0,Confirmed
+BK10721,Leisure,Standard,Travel Agent,2025-05-17,32.0,7,2752.0,Confirmed
+BK10161,Leisure,Suite,Corporate,2025-06-18,39.0,6,8251.0,Confirmed
+BK10244,Leisure,Deluxe,OTA,2025-02-12,,5,4236.0,Canceled
+BK10833,Leisure,Deluxe,OTA,2025-12-27,16.0,1,4479.0,Confirmed
+BK10158,Leisure,Deluxe,Direct Website,2025-06-04,12.0,2,4354.0,Confirmed
+BK10501,Business,Suite,OTA,2025-10-20,41.0,2,7044.0,Confirmed
+BK10432,Leisure,Deluxe,OTA,2025-11-10,10.0,4,3739.0,Confirmed
+BK10946,Leisure,Deluxe,OTA,2025-10-09,26.0,1,2925.0,Confirmed
+BK10832,Leisure,Standard,Travel Agent,2025-03-06,45.0,3,2651.0,Confirmed
+BK10756,Business,Standard,OTA,2025-09-19,55.0,3,3446.0,Confirmed
+BK10366,Leisure,Deluxe,Corporate,2025-08-17,17.0,5,4646.0,Confirmed
+BK10979,Leisure,Standard,Direct Website,2025-06-24,47.0,5,2547.0,Confirmed
+BK10054,Business,Deluxe,OTA,2025-11-03,128.0,3,4671.0,Confirmed
+BK10639,Leisure,Suite,Direct Website,2025-04-19,50.0,6,9018.0,Confirmed
+BK10024,Business,Deluxe,Corporate,2025-09-20,42.0,3,5299.0,Confirmed
+BK10298,Leisure,Deluxe,OTA,2025-12-25,6.0,2,4438.0,Confirmed
+BK10018,Leisure,Deluxe,OTA,2025-01-23,28.0,3,4841.0,Confirmed
+BK10254,Business,Standard,Travel Agent,2025-06-09,49.0,4,3234.0,Canceled
+BK10225,Leisure,Suite,Direct Website,2025-08-29,61.0,6,8238.0,Confirmed
+BK10419,Leisure,Suite,Travel Agent,2025-10-04,48.0,6,9774.0,Confirmed
+BK10772,Leisure,Deluxe,Travel Agent,2025-11-18,5.0,4,,Confirmed
+BK10743,Leisure,Standard,OTA,2025-09-10,5.0,2,2605.0,Canceled
+BK10222,Business,Deluxe,OTA,2025-06-02,30.0,3,4424.0,Confirmed
+BK10667,Business,Suite,OTA,2025-06-24,42.0,4,8789.0,Confirmed
+BK10424,Business,Deluxe,OTA,2025-04-27,42.0,4,5298.0,Confirmed
+BK10218,Leisure,Suite,OTA,2025-10-19,43.0,4,7096.0,Confirmed
+BK10810,Leisure,Standard,Direct Website,2025-08-27,32.0,5,2871.0,Confirmed
+BK10740,Business,Standard,OTA,2025-10-01,41.0,2,2887.0,Confirmed
+BK10970,Business,Standard,Travel Agent,2025-04-08,53.0,4,2410.0,Confirmed
+BK10442,Leisure,Deluxe,Direct Website,2025-10-04,23.0,6,4777.0,Confirmed
+BK10751,Business,Standard,Travel Agent,2025-12-07,82.0,3,3004.0,Confirmed
+BK10286,Leisure,Standard,OTA,2025-11-19,9.0,2,2901.0,Canceled
+BK10066,Leisure,Deluxe,OTA,2025-04-10,40.0,2,4762.0,Confirmed
+BK10453,Leisure,Standard,OTA,2025-01-19,,5,2727.0,Confirmed
+BK10944,Leisure,Standard,Direct Website,2025-10-12,23.0,3,2971.0,Canceled
+BK10071,Business,Standard,Travel Agent,2025-05-22,28.0,3,3071.0,Confirmed
+BK10626,Leisure,Deluxe,Travel Agent,2025-10-13,67.0,2,4106.0,Confirmed
+BK10412,Business,Standard,OTA,2025-11-19,59.0,1,3295.0,Confirmed
+BK10082,Business,Deluxe,Travel Agent,2025-04-07,17.0,2,4736.0,Confirmed
+BK10915,Leisure,Suite,OTA,2025-04-23,51.0,6,8034.0,Confirmed
+BK10987,Leisure,Standard,Direct Website,2025-04-14,58.0,1,2872.0,Confirmed
+BK10015,Business,Standard,Travel Agent,2025-01-26,20.0,1,2877.0,Confirmed
+BK10739,Leisure,Standard,OTA,2025-02-26,19.0,2,2648.0,Confirmed
+BK10535,Business,Standard,OTA,2025-06-26,44.0,2,3245.0,Confirmed
+BK10676,Leisure,Suite,Travel Agent,2025-03-20,8.0,3,9161.0,Confirmed
+BK10451,Leisure,Suite,Travel Agent,2025-02-28,109.0,3,23727.5,Confirmed
+BK10698,Business,Deluxe,Direct Website,2025-07-08,14.0,2,4124.0,Confirmed
+BK10404,Leisure,Suite,Corporate,2025-06-13,32.0,5,9346.0,Confirmed
+BK10490,Business,Deluxe,OTA,2025-08-23,16.0,1,4549.0,Canceled
+BK10813,Leisure,Deluxe,Travel Agent,2025-03-05,50.0,2,4937.0,Confirmed
+BK10760,Leisure,Deluxe,Direct Website,2025-01-04,12.0,5,4214.0,Confirmed
+BK10364,Leisure,Deluxe,Direct Website,2025-05-14,33.0,3,3920.0,Confirmed
+BK10459,Leisure,Deluxe,Corporate,2025-02-23,12.0,7,4945.0,Canceled
+BK10104,Leisure,Deluxe,OTA,2025-08-23,83.0,7,3898.0,Confirmed
+BK10268,Leisure,Standard,Direct Website,2025-03-01,39.0,5,2534.0,Confirmed
+BK10867,Business,Deluxe,Corporate,2025-06-21,8.0,1,4812.0,Confirmed
+BK10982,Business,Deluxe,Direct Website,2025-04-22,10.0,4,5581.0,Confirmed
+BK10241,Business,Deluxe,Corporate,2025-02-20,21.0,1,5732.0,Confirmed
+BK10430,Business,Suite,OTA,2025-05-11,53.0,2,,Canceled
+BK10689,Business,Deluxe,OTA,2025-03-14,43.0,3,4710.0,Confirmed
+BK10203,Business,Standard,Direct Website,2025-05-18,107.0,1,2414.0,Confirmed
+BK10945,Leisure,Standard,OTA,2025-09-09,55.0,2,2985.0,Canceled
+BK10096,Leisure,Standard,Direct Website,2025-07-28,19.0,6,3180.0,Confirmed
+BK10467,Business,Suite,Travel Agent,2025-05-01,18.0,3,8742.0,Confirmed
+BK10619,Leisure,Standard,Direct Website,2025-06-03,53.0,7,2012.0,Canceled
+BK10492,Business,Deluxe,Direct Website,2025-06-16,42.0,2,4693.0,Confirmed
+BK10166,Business,Deluxe,Travel Agent,2025-03-26,6.0,3,5246.0,Confirmed
+BK10648,Leisure,Deluxe,OTA,2025-06-05,56.0,3,4787.0,Confirmed
+BK10883,Leisure,Standard,Corporate,2025-12-05,40.0,5,2584.0,Confirmed
+BK10315,Leisure,Standard,OTA,2025-12-10,66.0,3,2123.0,Canceled
+BK10361,Business,Standard,Direct Website,2025-08-02,13.0,3,2758.0,Confirmed
+BK10138,Business,Deluxe,OTA,2025-11-13,124.0,2,12195.0,Canceled
+BK10276,Business,Standard,Travel Agent,2025-07-22,48.0,4,2622.0,Confirmed
+BK10384,Business,Standard,Travel Agent,2025-11-17,20.0,3,2989.0,Confirmed
+BK10568,Business,Standard,OTA,2025-02-18,70.0,4,2478.0,Canceled
+BK10807,Leisure,Standard,Direct Website,2025-11-07,47.0,6,3176.0,Confirmed
+BK10088,Leisure,Standard,OTA,2025-03-27,25.0,5,3295.0,Confirmed
+BK10809,Leisure,Suite,Travel Agent,2025-05-10,18.0,1,7126.0,Confirmed
+BK10280,Business,Standard,Corporate,2025-10-18,40.0,2,2193.0,Confirmed
+BK10460,Leisure,Deluxe,OTA,2025-12-07,7.0,6,4997.0,Canceled
+BK10631,Leisure,Deluxe,OTA,2025-07-01,6.0,4,5352.0,Confirmed
+BK10882,Business,Suite,Direct Website,2025-09-29,6.0,4,9175.0,Confirmed
+BK10613,Leisure,Suite,OTA,2025-09-21,22.0,1,9713.0,Canceled
+BK10202,Business,Deluxe,OTA,2025-09-29,50.0,2,4304.0,Canceled
+BK10402,Business,Deluxe,Travel Agent,2025-01-18,41.0,1,5018.0,Confirmed
+BK10340,Leisure,Standard,Travel Agent,2025-08-29,,4,3214.0,Confirmed
+BK10365,Business,Standard,Travel Agent,2025-07-13,,4,3095.0,Confirmed
+BK10023,Leisure,Suite,Corporate,2025-11-19,19.0,3,9388.0,Canceled
+BK10345,Leisure,Deluxe,OTA,2025-03-28,38.0,2,4135.0,Confirmed
+BK10948,Leisure,Suite,OTA,2025-05-20,21.0,4,5391.0,Confirmed
+BK10334,Leisure,Standard,OTA,2025-03-14,48.0,2,2100.0,Confirmed
+BK10310,Business,Standard,OTA,2025-08-16,41.0,1,3344.0,Confirmed
+BK10914,Leisure,Suite,OTA,2025-07-18,57.0,2,9951.0,Confirmed
+BK10353,Leisure,Deluxe,Direct Website,2025-02-04,32.0,7,4089.0,Confirmed
+BK10049,Leisure,Standard,OTA,2025-04-14,19.0,1,2818.0,Confirmed
+BK10240,Leisure,Deluxe,OTA,2025-05-11,,3,4025.0,Confirmed
+BK10318,Leisure,Standard,OTA,2025-08-08,44.0,5,2884.0,Canceled
+BK10749,Leisure,Deluxe,Corporate,2025-12-31,58.0,7,4185.0,Confirmed
+BK10262,Leisure,Standard,OTA,2025-05-28,34.0,6,2990.0,Confirmed
+BK10098,Leisure,Standard,Direct Website,2025-01-23,57.0,6,2780.0,Canceled
+BK10818,Business,Deluxe,OTA,2025-11-27,43.0,2,5155.0,Confirmed
+BK10907,Business,Standard,OTA,2025-10-01,6.0,2,2442.0,Confirmed
+BK10880,Leisure,Standard,OTA,2025-11-25,,6,2424.0,Confirmed
+BK10089,Business,Deluxe,Direct Website,2025-10-13,2.0,1,4581.0,Confirmed
+BK10515,Business,Standard,OTA,2025-02-15,83.0,1,2839.0,Confirmed
+BK10331,Leisure,Standard,Travel Agent,2025-04-03,25.0,3,2411.0,Confirmed
+BK10692,Business,Standard,Direct Website,2025-07-16,52.0,2,2843.0,Canceled
+BK10433,Leisure,Deluxe,Travel Agent,2025-08-04,34.0,1,5139.0,Confirmed
+BK10928,Business,Deluxe,Corporate,2025-05-13,31.0,1,4186.0,Confirmed
+BK10737,Leisure,Standard,OTA,2025-09-13,27.0,3,2880.0,Confirmed
+BK10486,Leisure,Standard,Corporate,2025-01-29,40.0,5,2667.0,Confirmed
+BK10452,Leisure,Deluxe,Travel Agent,2025-09-20,51.0,6,4515.0,Confirmed
+BK10847,Leisure,Deluxe,OTA,2025-05-10,28.0,4,4592.0,Confirmed
+BK10763,Leisure,Standard,OTA,2025-12-30,42.0,1,2769.0,Confirmed
+BK10260,Business,Standard,OTA,2025-01-25,13.0,1,2606.0,Confirmed
+BK10305,Business,Standard,Corporate,2025-01-18,41.0,2,2674.0,Confirmed
+BK10902,Leisure,Standard,Direct Website,2025-09-26,33.0,1,2879.0,Confirmed
+BK10196,Leisure,Deluxe,Direct Website,2025-12-31,,3,3686.0,Confirmed
+BK10140,Business,Standard,OTA,2025-04-17,62.0,1,2533.0,Confirmed
+BK10594,Leisure,Standard,Direct Website,2025-02-27,34.0,7,2847.0,Canceled
+BK10122,Business,Standard,Travel Agent,2025-11-24,52.0,1,2707.0,Confirmed
+BK10494,Business,Deluxe,Direct Website,2025-08-29,123.0,3,4109.0,Confirmed
+BK10110,Leisure,Standard,Direct Website,2025-02-23,116.0,5,3744.0,Confirmed
+BK10084,Leisure,Standard,OTA,2025-06-24,50.0,1,2731.0,Confirmed
+BK10950,Business,Deluxe,OTA,2025-03-04,50.0,4,5054.0,Canceled
+BK10513,Leisure,Standard,Direct Website,2025-07-23,27.0,3,2951.0,Confirmed
+BK10482,Leisure,Deluxe,Corporate,2025-12-26,49.0,6,4180.0,Confirmed
+BK10694,Business,Suite,Travel Agent,2025-04-03,66.0,3,7378.0,Canceled
+BK10937,Business,Standard,Direct Website,2025-12-08,49.0,4,3008.0,Confirmed
+BK10074,Leisure,Standard,Corporate,2025-07-29,1.0,1,3127.0,Confirmed
+BK10971,Leisure,Standard,Travel Agent,2025-06-18,16.0,2,2572.0,Confirmed
+BK10742,Leisure,Suite,Direct Website,2025-03-10,51.0,1,8333.0,Confirmed
+BK10273,Leisure,Deluxe,OTA,2025-06-23,16.0,2,5190.0,Confirmed
+BK10396,Leisure,Deluxe,Direct Website,2025-11-08,45.0,4,4965.0,Confirmed
+BK10154,Business,Standard,OTA,2025-08-31,76.0,1,2801.0,Confirmed
+BK10191,Business,Standard,OTA,2025-03-18,40.0,3,1977.0,Confirmed
+BK10930,Leisure,Standard,Direct Website,2025-01-08,32.0,3,2952.0,Confirmed
+BK10187,Leisure,Standard,OTA,2025-05-09,98.0,6,3034.0,Confirmed
+BK10050,Leisure,Standard,Travel Agent,2025-12-15,29.0,6,2708.0,Confirmed
+BK10038,Leisure,Standard,Direct Website,2025-07-13,86.0,2,2914.0,Confirmed
+BK10418,Leisure,Standard,OTA,2025-01-09,61.0,5,2832.0,Canceled
+BK10891,Leisure,Suite,Direct Website,2025-01-28,,5,8901.0,Confirmed
+BK10208,Leisure,Standard,Direct Website,2025-03-12,4.0,1,5655.0,Confirmed
+BK10375,Business,Standard,Corporate,2025-06-18,62.0,2,2948.0,Confirmed
+BK10463,Leisure,Standard,OTA,2025-05-08,38.0,6,2709.0,Confirmed
+BK10470,Leisure,Standard,Corporate,2025-03-10,28.0,7,1807.0,Confirmed
+BK10517,Leisure,Deluxe,OTA,2025-09-21,72.0,7,,Canceled
+BK10075,Leisure,Standard,OTA,2025-07-15,24.0,1,3035.0,Confirmed
+BK10248,Business,Standard,Travel Agent,2025-12-03,73.0,1,2337.0,Confirmed
+BK10559,Leisure,Standard,Corporate,2025-07-25,8.0,6,3203.0,Confirmed
+BK10302,Business,Deluxe,OTA,2025-05-27,11.0,2,4821.0,Canceled
+BK10582,Leisure,Standard,OTA,2025-07-15,14.0,5,,Canceled
+BK10753,Business,Standard,Direct Website,2025-07-29,27.0,2,3152.0,Confirmed
+BK10967,Leisure,Standard,OTA,2025-02-09,65.0,1,2346.0,Confirmed
+BK10011,Leisure,Suite,OTA,2025-06-11,18.0,6,7055.0,Canceled
+BK10988,Leisure,Standard,Direct Website,2025-02-11,44.0,6,2456.0,Confirmed
+BK10485,Leisure,Standard,Direct Website,2025-01-12,46.0,7,2765.0,Confirmed
+BK10462,Business,Suite,Direct Website,2025-11-30,75.0,3,9260.0,Confirmed
+BK10991,Leisure,Deluxe,Travel Agent,2025-04-26,34.0,3,4345.0,Confirmed
+BK10627,Leisure,Standard,Travel Agent,2025-06-10,56.0,3,2927.0,Confirmed
+BK10281,Leisure,Standard,Travel Agent,2025-04-22,19.0,1,2742.0,Confirmed
+BK10253,Business,Standard,Travel Agent,2025-11-03,32.0,1,2785.0,Confirmed
+BK10998,Leisure,Suite,OTA,2025-03-22,55.0,1,8995.0,Confirmed
+BK10793,Leisure,Standard,Direct Website,2025-08-21,56.0,1,2405.0,Canceled
+BK10926,Leisure,Standard,OTA,2025-09-03,25.0,5,2076.0,Canceled
+BK10577,Business,Deluxe,OTA,2025-03-29,22.0,1,5236.0,Confirmed
+BK10932,Business,Standard,Direct Website,2025-01-22,36.0,4,2439.0,Canceled
+BK10219,Leisure,Standard,OTA,2025-01-08,25.0,2,2694.0,Confirmed
+BK10425,Leisure,Deluxe,OTA,2025-04-30,75.0,2,4207.0,Confirmed
+BK10369,Leisure,Suite,Direct Website,2025-05-17,23.0,4,8978.0,Confirmed
+BK10953,Leisure,Standard,Corporate,2025-10-07,46.0,3,2433.0,Confirmed
+BK10069,Business,Standard,OTA,2025-12-24,16.0,2,3131.0,Confirmed
+BK10995,Leisure,Standard,Travel Agent,2025-09-02,29.0,1,2709.0,Confirmed
+BK10580,Leisure,Standard,OTA,2025-04-25,45.0,2,2530.0,Confirmed
+BK10021,Business,Standard,Travel Agent,2025-02-15,7.0,4,2698.0,Confirmed
+BK10077,Leisure,Deluxe,OTA,2025-07-01,35.0,1,4088.0,Confirmed
+BK10547,Leisure,Standard,Direct Website,2025-02-21,58.0,2,2235.0,Confirmed
+BK10318,Leisure,Standard,OTA,2025-08-08,44.0,5,2884.0,Canceled
+BK10961,Leisure,Standard,Direct Website,2025-09-24,29.0,4,3091.0,Confirmed
+BK10125,Leisure,Standard,Corporate,2025-06-11,43.0,5,3067.0,Confirmed
+BK10228,Business,Deluxe,OTA,2025-07-15,113.0,1,5559.0,Canceled
+BK10042,Leisure,Deluxe,OTA,2025-06-18,54.0,4,4705.0,Confirmed
+BK10516,Leisure,Standard,Travel Agent,2025-05-27,33.0,7,2911.0,Confirmed
+BK10572,Business,Standard,OTA,2025-07-19,13.0,3,3309.0,Confirmed
+BK10576,Business,Suite,Direct Website,2025-11-17,19.0,3,,Confirmed
+BK10816,Business,Suite,OTA,2025-01-15,32.0,3,7497.0,Confirmed
+BK10621,Leisure,Standard,Travel Agent,2025-02-23,20.0,7,2469.0,Confirmed
+BK10374,Business,Standard,OTA,2025-04-16,18.0,2,2944.0,Confirmed
+BK10205,Business,Standard,Direct Website,2025-11-12,51.0,4,2761.0,Confirmed
+BK10984,Leisure,Standard,Direct Website,2025-07-14,79.0,1,2882.0,Confirmed
+BK10262,Leisure,Standard,OTA,2025-05-28,34.0,6,2990.0,Confirmed
+BK10006,Leisure,Deluxe,Travel Agent,2025-02-21,36.0,4,4833.0,Confirmed
+BK10493,Business,Standard,Direct Website,2025-10-02,34.0,2,3124.0,Confirmed
+BK10724,Leisure,Standard,OTA,2025-03-17,26.0,4,2272.0,Confirmed
+BK10958,Leisure,Standard,Travel Agent,2025-01-17,24.0,1,2399.0,Confirmed
+BK10781,Leisure,Suite,OTA,2025-09-27,41.0,1,7998.0,Confirmed
+BK10761,Business,Standard,Direct Website,2025-06-05,14.0,1,2825.0,Confirmed
+BK10259,Leisure,Deluxe,OTA,2025-03-24,3.0,5,4894.0,Confirmed
+BK10282,Leisure,Standard,OTA,2025-12-15,13.0,3,2276.0,Confirmed
+BK10634,Leisure,Standard,OTA,2025-11-03,44.0,1,3181.0,Confirmed
+BK10590,Business,Suite,Travel Agent,2025-02-17,70.0,4,9287.0,Confirmed
+BK10897,Leisure,Standard,Travel Agent,2025-05-14,67.0,4,2897.0,Canceled
+BK10989,Leisure,Deluxe,Travel Agent,2025-09-04,62.0,7,4990.0,Confirmed
+BK10455,Leisure,Standard,Direct Website,2025-09-22,57.0,6,2931.0,Confirmed
+BK10320,Leisure,Suite,Direct Website,2025-10-25,53.0,2,8476.0,Confirmed
+BK10434,Business,Standard,OTA,2025-12-02,76.0,3,2691.0,Confirmed
+BK10663,Leisure,Standard,OTA,2025-06-02,,4,2390.0,Confirmed
+BK10299,Leisure,Deluxe,Corporate,2025-11-16,,3,4049.0,Confirmed
+BK10436,Business,Standard,OTA,2025-01-08,7.0,2,2635.0,Confirmed
+BK10675,Leisure,Standard,Direct Website,2025-02-18,14.0,7,1989.0,Confirmed
+BK10909,Business,Standard,OTA,2025-01-12,3.0,3,3045.0,Confirmed
+BK10438,Leisure,Deluxe,Direct Website,2025-03-29,51.0,1,4875.0,Confirmed
+BK10325,Business,Deluxe,Direct Website,2025-11-24,15.0,2,4287.0,Confirmed
+BK10403,Leisure,Standard,Direct Website,2025-04-26,1.0,7,2291.0,Canceled
+BK10265,Leisure,Standard,Direct Website,2025-08-22,45.0,1,2402.0,Confirmed
+BK10564,Business,Deluxe,Direct Website,2025-08-23,83.0,1,4667.0,Confirmed
+BK10602,Leisure,Suite,Direct Website,2025-05-21,38.0,4,6881.0,Confirmed
+BK10972,Leisure,Standard,OTA,2025-12-12,58.0,7,2531.0,Confirmed
+BK10278,Leisure,Suite,Direct Website,2025-06-29,44.0,4,8569.0,Confirmed
+BK10655,Business,Standard,OTA,2025-08-18,44.0,2,3056.0,Confirmed
+BK10774,Leisure,Standard,Travel Agent,2025-10-26,50.0,7,3296.0,Confirmed
+BK10732,Leisure,Standard,Travel Agent,2025-02-08,66.0,3,2868.0,Confirmed
+BK10711,Business,Deluxe,Direct Website,2025-10-23,58.0,2,4108.0,Confirmed
+BK10553,Leisure,Suite,Travel Agent,2025-01-30,70.0,1,7207.0,Confirmed
+BK10766,Business,Standard,OTA,2025-05-11,73.0,3,2315.0,Confirmed
+BK10903,Business,Standard,OTA,2025-05-13,68.0,4,3093.0,Confirmed
+BK10911,Leisure,Suite,Direct Website,2025-02-17,25.0,6,9954.0,Confirmed
+BK10231,Leisure,Standard,Travel Agent,2025-03-07,27.0,5,3299.0,Confirmed
+BK10245,Leisure,Suite,Direct Website,2025-11-18,29.0,5,8310.0,Confirmed
+BK10167,Business,Deluxe,OTA,2025-04-09,90.0,2,4411.0,Canceled
+BK10502,Leisure,Suite,OTA,2025-06-15,25.0,1,6697.0,Confirmed
+BK10332,Leisure,Deluxe,Direct Website,2025-03-20,37.0,4,3979.0,Confirmed
+BK10822,Business,Standard,OTA,2025-01-02,40.0,3,3141.0,Confirmed
+BK10798,Business,Deluxe,OTA,2025-08-09,38.0,3,4422.0,Canceled
+BK10426,Business,Standard,Direct Website,2025-08-18,14.0,2,2955.0,Confirmed
+BK10541,Leisure,Deluxe,OTA,2025-07-18,35.0,3,13947.5,Canceled
+BK10750,Business,Standard,Direct Website,2025-12-06,21.0,4,2622.0,Canceled
+BK10162,Leisure,Standard,Travel Agent,2025-09-05,20.0,2,2095.0,Confirmed
+BK10149,Leisure,Standard,OTA,2025-06-08,19.0,1,3181.0,Confirmed
+BK10226,Leisure,Standard,Direct Website,2025-03-13,8.0,4,3052.0,Confirmed
+BK10685,Leisure,Standard,OTA,2025-08-25,42.0,4,2980.0,Canceled
+BK10094,Leisure,Standard,Direct Website,2025-04-04,72.0,2,3289.0,Confirmed
+BK10221,Leisure,Standard,Direct Website,2025-01-23,46.0,6,3006.0,Confirmed
+BK10597,Leisure,Deluxe,Travel Agent,2025-09-12,29.0,3,3992.0,Confirmed
+BK10699,Leisure,Standard,OTA,2025-03-22,48.0,2,2875.0,Confirmed
+BK10473,Leisure,Standard,Corporate,2025-03-16,7.0,7,2577.0,Confirmed
+BK10992,Business,Deluxe,Travel Agent,2025-11-19,51.0,4,4184.0,Confirmed
+BK10601,Leisure,Deluxe,Corporate,2025-11-22,18.0,7,4894.0,Confirmed
+BK10888,Leisure,Standard,Corporate,2025-08-30,51.0,3,2568.0,Confirmed
+BK10034,Leisure,Standard,OTA,2025-03-21,67.0,1,2555.0,Confirmed
+BK10217,Leisure,Standard,OTA,2025-06-05,23.0,2,2796.0,Canceled
+BK10072,Business,Suite,OTA,2025-06-25,29.0,2,9191.0,Confirmed
+BK10220,Business,Standard,Direct Website,2025-12-07,3.0,2,,Confirmed
+BK10213,Leisure,Deluxe,Corporate,2025-05-09,28.0,1,3787.0,Confirmed
+BK10242,Leisure,Standard,OTA,2025-01-03,32.0,7,2900.0,Confirmed
+BK10394,Leisure,Standard,OTA,2025-07-07,5.0,2,3108.0,Confirmed
+BK10978,Leisure,Deluxe,Corporate,2025-12-23,26.0,4,3526.0,Confirmed
+BK10367,Business,Deluxe,Direct Website,2025-10-28,28.0,1,4722.0,Confirmed
+BK10012,Leisure,Deluxe,OTA,2025-03-04,32.0,5,4740.0,Confirmed
+BK10863,Leisure,Deluxe,OTA,2025-05-25,44.0,7,4904.0,Confirmed
+BK10343,Leisure,Deluxe,Travel Agent,2025-09-25,34.0,6,3863.0,Confirmed
+BK10198,Leisure,Standard,Corporate,2025-07-31,18.0,2,2511.0,Confirmed
+BK10725,Business,Standard,Travel Agent,2025-02-12,116.0,1,2336.0,Confirmed
+BK10696,Business,Deluxe,OTA,2025-04-28,37.0,3,5471.0,Canceled
+BK10234,Leisure,Suite,Corporate,2025-07-19,13.0,3,8004.0,Confirmed
+BK10695,Business,Deluxe,Direct Website,2025-03-03,90.0,3,4445.0,Confirmed
+BK10420,Leisure,Deluxe,Corporate,2025-07-25,104.0,4,3913.0,Confirmed
+BK10929,Leisure,Deluxe,Travel Agent,2025-08-16,75.0,3,3662.0,Confirmed
+BK10890,Leisure,Standard,Travel Agent,2025-01-09,27.0,5,3151.0,Canceled
+BK10608,Leisure,Deluxe,Direct Website,2025-04-11,34.0,4,3818.0,Confirmed
+BK10800,Business,Deluxe,Direct Website,2025-12-15,7.0,3,4955.0,Confirmed
+BK10297,Leisure,Deluxe,Travel Agent,2025-07-16,29.0,4,4473.0,Confirmed
+BK10063,Business,Deluxe,Direct Website,2025-03-03,50.0,3,5141.0,Confirmed
+BK10734,Leisure,Standard,Travel Agent,2025-03-14,44.0,4,2634.0,Confirmed
+BK10607,Business,Standard,OTA,2025-01-07,15.0,3,2312.0,Canceled
+BK10013,Leisure,Deluxe,OTA,2025-11-13,34.0,7,4750.0,Confirmed
+BK10435,Business,Standard,OTA,2025-05-06,42.0,4,2731.0,Confirmed
+BK10017,Leisure,Standard,Direct Website,2025-02-22,49.0,7,2926.0,Canceled
+BK10764,Leisure,Suite,Direct Website,2025-02-02,33.0,4,8469.0,Confirmed
+BK10839,Leisure,Deluxe,OTA,2025-05-18,35.0,5,4758.0,Canceled
+BK10758,Business,Standard,Direct Website,2025-02-18,67.0,3,2833.0,Confirmed
+BK10779,Leisure,Suite,Travel Agent,2025-09-19,26.0,6,7911.0,Confirmed
+BK10348,Leisure,Deluxe,OTA,2025-03-12,116.0,4,5492.0,Confirmed
+BK10207,Leisure,Deluxe,Direct Website,2025-06-14,34.0,2,4454.0,Confirmed
+BK10090,Leisure,Standard,OTA,2025-01-04,87.0,1,2938.0,Canceled
+BK10307,Business,Deluxe,Direct Website,2025-11-24,44.0,3,4163.0,Confirmed
+BK10341,Leisure,Suite,Direct Website,2025-09-15,43.0,5,5666.0,Confirmed
+BK10380,Leisure,Deluxe,OTA,2025-06-19,41.0,2,4105.0,Confirmed
+BK10344,Leisure,Deluxe,OTA,2025-01-10,50.0,4,4934.0,Confirmed
+BK10471,Leisure,Standard,OTA,2025-03-10,8.0,4,2381.0,Confirmed
+BK10819,Leisure,Standard,Direct Website,2025-07-29,56.0,1,3173.0,Confirmed
+BK10551,Leisure,Standard,OTA,2025-08-02,22.0,4,2694.0,Canceled
+BK10598,Leisure,Suite,Travel Agent,2025-07-30,34.0,4,7852.0,Confirmed
+BK10693,Business,Standard,Direct Website,2025-05-10,,4,3602.0,Confirmed
+BK10032,Leisure,Standard,OTA,2025-08-31,26.0,7,3077.0,Confirmed
+BK10951,Leisure,Standard,OTA,2025-09-13,57.0,3,2693.0,Confirmed
+BK10657,Leisure,Standard,Travel Agent,2025-03-17,26.0,4,2865.0,Confirmed
+BK10670,Leisure,Standard,Corporate,2025-03-23,58.0,2,3127.0,Confirmed
+BK10172,Leisure,Standard,Travel Agent,2025-06-04,73.0,2,2801.0,Confirmed
+BK10865,Leisure,Suite,Direct Website,2025-11-05,55.0,1,,Confirmed
+BK10866,Business,Suite,Direct Website,2025-01-08,72.0,1,8923.0,Confirmed
+BK10408,Business,Standard,OTA,2025-09-17,29.0,2,2922.0,Confirmed
+BK10845,Leisure,Suite,Direct Website,2025-06-10,52.0,2,8779.0,Confirmed
+BK10918,Leisure,Standard,Direct Website,2025-09-12,18.0,6,2890.0,Canceled
+BK10200,Leisure,Deluxe,OTA,2025-10-23,15.0,3,5473.0,Confirmed
+BK10292,Leisure,Suite,OTA,2025-05-17,13.0,4,8008.0,Confirmed
+BK10583,Leisure,Standard,Travel Agent,2025-01-07,36.0,7,2273.0,Confirmed
+BK10881,Business,Deluxe,Corporate,2025-09-03,26.0,1,4292.0,Confirmed
+BK10510,Leisure,Standard,OTA,2025-05-25,40.0,5,2310.0,Canceled
+BK10925,Business,Standard,OTA,2025-06-20,20.0,3,2418.0,Canceled
+BK10859,Leisure,Deluxe,Direct Website,2025-05-19,54.0,1,4965.0,Canceled
+BK10895,Leisure,Suite,Direct Website,2025-07-28,51.0,2,9941.0,Confirmed
+BK10990,Leisure,Deluxe,Direct Website,2025-01-03,60.0,2,3851.0,Confirmed
+BK10975,Leisure,Deluxe,OTA,2025-03-19,13.0,2,3837.0,Confirmed
+BK10489,Leisure,Deluxe,OTA,2025-05-26,12.0,4,5742.0,Confirmed
+BK10938,Leisure,Suite,Direct Website,2025-03-02,18.0,2,7316.0,Confirmed
+BK10996,Leisure,Deluxe,Corporate,2025-04-19,100.0,6,4372.0,Confirmed
+BK10133,Leisure,Standard,Travel Agent,2025-08-23,14.0,4,3180.0,Confirmed
+BK10060,Leisure,Deluxe,OTA,2025-08-19,29.0,1,4519.0,Confirmed
+BK10690,Business,Standard,Corporate,2025-10-08,36.0,4,2209.0,Confirmed
+BK10026,Leisure,Standard,OTA,2025-12-12,43.0,2,3242.0,Confirmed
+BK10100,Leisure,Suite,Direct Website,2025-04-09,28.0,4,8964.0,Confirmed
+BK10531,Leisure,Deluxe,OTA,2025-03-16,72.0,7,4884.0,Confirmed
+BK10588,Leisure,Standard,OTA,2025-04-07,9.0,4,2589.0,Confirmed
+BK10345,Leisure,Deluxe,OTA,2025-03-28,38.0,2,4135.0,Confirmed
+BK10776,Leisure,Deluxe,OTA,2025-09-18,14.0,6,3792.0,Confirmed
+BK10788,Business,Deluxe,Direct Website,2025-06-22,14.0,3,4840.0,Confirmed
+BK10520,Business,Suite,OTA,2025-04-24,35.0,3,7100.0,Confirmed
+BK10363,Leisure,Standard,Direct Website,2025-12-15,20.0,5,2169.0,Confirmed
+BK10309,Leisure,Standard,OTA,2025-05-10,55.0,2,2598.0,Confirmed
+BK10795,Leisure,Standard,OTA,2025-04-08,12.0,7,2588.0,Confirmed
+BK10828,Leisure,Suite,Travel Agent,2025-10-13,30.0,7,,Confirmed
+BK10604,Business,Suite,OTA,2025-09-16,22.0,1,8276.0,Confirmed
+BK10252,Leisure,Standard,Travel Agent,2025-04-05,29.0,1,3245.0,Confirmed
+BK10544,Business,Standard,OTA,2025-12-20,40.0,1,2984.0,Confirmed
+BK10481,Leisure,Standard,OTA,2025-08-18,64.0,1,2697.0,Confirmed
+BK10441,Business,Standard,OTA,2025-03-26,60.0,3,2797.0,Canceled
+BK10647,Leisure,Deluxe,Direct Website,2025-06-05,9.0,2,4134.0,Confirmed
+BK10476,Business,Standard,OTA,2025-10-30,15.0,3,3283.0,Confirmed
+BK10022,Business,Suite,OTA,2025-10-23,40.0,3,,Canceled
+BK10062,Business,Deluxe,OTA,2025-10-04,45.0,2,5065.0,Confirmed
+BK10148,Leisure,Standard,OTA,2025-11-07,209.0,4,2827.0,Confirmed
+BK10483,Leisure,Standard,Travel Agent,2025-08-23,21.0,3,2691.0,Canceled
+BK10727,Business,Standard,Direct Website,2025-09-16,104.0,1,2380.0,Confirmed
+BK10916,Leisure,Standard,OTA,2025-01-22,49.0,2,2834.0,Confirmed
+BK10786,Business,Deluxe,OTA,2025-05-15,59.0,3,4195.0,Confirmed
+BK10257,Leisure,Standard,Direct Website,2025-05-17,59.0,5,2497.0,Confirmed
+BK10052,Business,Deluxe,Direct Website,2025-10-23,51.0,4,4835.0,Canceled
+BK10242,Leisure,Standard,OTA,2025-01-03,32.0,7,2900.0,Confirmed
+BK10173,Business,Suite,Direct Website,2025-05-03,10.0,3,10253.0,Confirmed
+BK10035,Leisure,Standard,OTA,2025-08-12,19.0,3,2661.0,Confirmed
+BK10178,Leisure,Suite,Direct Website,2025-02-04,85.0,5,9204.0,Confirmed
+BK10679,Leisure,Standard,Travel Agent,2025-11-20,20.0,3,2760.0,Confirmed
+BK10738,Business,Standard,OTA,2025-07-01,8.0,3,3439.0,Canceled
+BK10120,Leisure,Deluxe,Travel Agent,2025-10-22,13.0,3,3666.0,Confirmed
+BK10275,Business,Standard,Direct Website,2025-09-10,62.0,1,3366.0,Confirmed
+BK10044,Leisure,Deluxe,OTA,2025-03-25,89.0,5,5279.0,Confirmed
+BK10300,Leisure,Deluxe,Direct Website,2025-08-10,42.0,2,4858.0,Confirmed
+BK10836,Business,Deluxe,OTA,2025-05-10,21.0,1,4279.0,Confirmed
+BK10076,Leisure,Standard,Direct Website,2025-11-02,71.0,5,,Confirmed
+BK10720,Leisure,Deluxe,Direct Website,2025-08-29,,4,4634.0,Confirmed
+BK10368,Leisure,Standard,Travel Agent,2025-06-25,66.0,6,3425.0,Confirmed
+BK10212,Leisure,Standard,Direct Website,2025-08-03,45.0,5,2940.0,Confirmed
+BK10267,Leisure,Standard,Travel Agent,2025-04-21,27.0,5,2910.0,Confirmed
+BK10311,Leisure,Standard,OTA,2025-07-30,14.0,4,2922.0,Canceled
+BK10728,Leisure,Standard,OTA,2025-06-18,42.0,7,2938.0,Confirmed
+BK10444,Business,Standard,Direct Website,2025-05-24,33.0,2,3549.0,Confirmed
+BK10503,Leisure,Deluxe,OTA,2025-01-11,38.0,1,4559.0,Confirmed
+BK10495,Business,Deluxe,Travel Agent,2025-02-11,58.0,2,4039.0,Confirmed
+BK10033,Business,Standard,Travel Agent,2025-10-13,51.0,1,2780.0,Confirmed
+BK10009,Leisure,Standard,OTA,2025-04-22,80.0,1,3171.0,Canceled
+BK10688,Leisure,Deluxe,Direct Website,2025-12-31,47.0,4,3654.0,Confirmed
+BK10160,Business,Standard,Travel Agent,2025-04-23,39.0,4,2767.0,Canceled
+BK10285,Leisure,Standard,OTA,2025-05-28,14.0,5,2532.0,Confirmed
+BK10295,Leisure,Suite,Direct Website,2025-11-17,17.0,3,9312.0,Confirmed
+BK10616,Business,Deluxe,OTA,2025-11-24,33.0,1,4120.0,Confirmed
+BK10824,Business,Deluxe,Direct Website,2025-03-19,95.0,3,4496.0,Confirmed
+BK10625,Business,Standard,Travel Agent,2025-11-01,4.0,3,2742.0,Confirmed
+BK10277,Leisure,Deluxe,Direct Website,2025-01-25,22.0,4,5064.0,Canceled
+BK10919,Leisure,Deluxe,Direct Website,2025-06-24,44.0,2,3926.0,Confirmed
+BK10603,Business,Deluxe,Corporate,2025-10-29,26.0,4,4514.0,Confirmed
+BK10484,Business,Standard,Direct Website,2025-09-08,20.0,4,2971.0,Confirmed
+BK10496,Leisure,Standard,Direct Website,2025-11-17,22.0,4,2954.0,Confirmed
+BK10182,Business,Deluxe,Travel Agent,2025-09-22,30.0,1,5056.0,Confirmed
+BK10827,Business,Standard,Direct Website,2025-12-07,81.0,3,2178.0,Canceled
+BK10966,Leisure,Suite,Direct Website,2025-10-28,86.0,5,9819.0,Confirmed
+BK10684,Leisure,Deluxe,Travel Agent,2025-05-23,14.0,6,5187.0,Confirmed
+BK10744,Leisure,Deluxe,Direct Website,2025-12-29,26.0,1,3271.0,Confirmed
+BK10981,Leisure,Deluxe,OTA,2025-11-26,38.0,1,4030.0,Canceled
+BK10036,Leisure,Standard,Corporate,2025-04-21,40.0,1,3013.0,Confirmed
+BK10156,Business,Standard,OTA,2025-02-17,31.0,4,2721.0,Confirmed
+BK10002,Leisure,Suite,Direct Website,2025-05-20,43.0,1,8535.0,Confirmed
+BK10754,Business,Deluxe,Travel Agent,2025-08-25,64.0,3,3745.0,Confirmed
+BK10508,Business,Standard,Travel Agent,2025-02-16,101.0,2,2745.0,Confirmed
+BK10497,Leisure,Deluxe,Direct Website,2025-12-05,17.0,5,5034.0,Confirmed
+BK10308,Leisure,Standard,OTA,2025-03-05,42.0,1,2808.0,Confirmed
+BK10289,Leisure,Standard,Travel Agent,2025-10-13,70.0,7,3060.0,Canceled
+BK10560,Business,Standard,Direct Website,2025-05-23,17.0,2,2743.0,Confirmed
+BK10414,Leisure,Standard,OTA,2025-10-29,31.0,1,1837.0,Canceled
+BK10421,Leisure,Standard,Direct Website,2025-02-26,38.0,3,2913.0,Confirmed
+BK10141,Business,Standard,Direct Website,2025-12-22,,1,3238.0,Confirmed
+BK10223,Leisure,Suite,Direct Website,2025-05-05,7.0,5,10062.0,Confirmed
+BK10864,Business,Standard,OTA,2025-04-07,24.0,3,2819.0,Canceled
+BK10183,Leisure,Standard,Direct Website,2025-02-23,23.0,3,2862.0,Canceled
+BK10843,Leisure,Standard,Direct Website,2025-01-15,41.0,7,2144.0,Confirmed
+BK10446,Leisure,Suite,Travel Agent,2025-08-28,115.0,5,9786.0,Confirmed
+BK10935,Leisure,Standard,OTA,2025-01-14,11.0,3,3003.0,Canceled
+BK10672,Leisure,Suite,Travel Agent,2025-04-06,8.0,1,8292.0,Confirmed
+BK10848,Leisure,Standard,Corporate,2025-06-04,40.0,2,2645.0,Confirmed
+BK10511,Leisure,Deluxe,OTA,2025-03-26,55.0,7,4289.0,Canceled
+BK10912,Leisure,Suite,OTA,2025-08-09,46.0,6,6841.0,Confirmed
+BK10731,Leisure,Standard,Travel Agent,2025-02-25,26.0,1,2216.0,Confirmed
+BK10611,Business,Deluxe,OTA,2025-07-28,20.0,2,3304.0,Confirmed
+BK10892,Business,Standard,OTA,2025-07-03,40.0,3,2331.0,Confirmed
+BK10747,Leisure,Standard,OTA,2025-04-23,7.0,1,2460.0,Canceled
+BK10956,Leisure,Deluxe,OTA,2025-05-23,4.0,5,5110.0,Confirmed
+BK10117,Leisure,Deluxe,Travel Agent,2025-01-23,9.0,2,4560.0,Confirmed
+BK10853,Leisure,Suite,Direct Website,2025-04-06,34.0,1,6350.0,Confirmed
+BK10001,Business,Standard,Direct Website,2025-01-28,13.0,1,3111.0,Confirmed
+BK10113,Leisure,Deluxe,Corporate,2025-07-25,16.0,4,4632.0,Confirmed
+BK10969,Business,Standard,OTA,2025-03-15,67.0,1,2789.0,Canceled
+BK10686,Leisure,Standard,Travel Agent,2025-04-27,14.0,2,2670.0,Confirmed
+BK10765,Business,Standard,OTA,2025-06-23,56.0,4,2728.0,Canceled
+BK10165,Leisure,Standard,Direct Website,2025-06-28,17.0,5,2570.0,Confirmed
+BK10184,Business,Deluxe,OTA,2025-05-04,16.0,1,5020.0,Confirmed
+BK10677,Leisure,Standard,Direct Website,2025-03-25,56.0,2,2299.0,Confirmed
+BK10372,Business,Standard,OTA,2025-07-27,14.0,3,2728.0,Confirmed
+BK10274,Leisure,Deluxe,Direct Website,2025-04-09,17.0,1,3959.0,Confirmed
+BK10704,Business,Standard,Direct Website,2025-12-17,19.0,3,2263.0,Confirmed
+BK10000,Leisure,Deluxe,OTA,2025-02-15,8.0,3,4099.0,Confirmed
+BK10566,Leisure,Deluxe,OTA,2025-06-28,33.0,3,3871.0,Confirmed
+BK10887,Business,Standard,Direct Website,2025-07-18,91.0,4,2960.0,Confirmed
+BK10540,Business,Suite,OTA,2025-09-24,25.0,3,8456.0,Confirmed
+BK10500,Leisure,Deluxe,Direct Website,2025-07-13,6.0,6,3765.0,Confirmed
+BK10718,Business,Deluxe,Travel Agent,2025-08-06,21.0,3,4846.0,Confirmed
+BK10383,Business,Standard,Travel Agent,2025-02-21,95.0,2,2715.0,Confirmed
+BK10405,Leisure,Suite,Travel Agent,2025-05-24,40.0,6,8913.0,Confirmed
+BK10561,Business,Standard,Travel Agent,2025-12-06,12.0,4,2083.0,Confirmed
+BK10862,Business,Deluxe,OTA,2025-10-16,46.0,3,4378.0,Confirmed
+BK10020,Leisure,Deluxe,Direct Website,2025-05-18,20.0,3,4679.0,Confirmed
+BK10805,Leisure,Standard,Travel Agent,2025-08-17,17.0,1,2365.0,Confirmed
+BK10176,Leisure,Standard,Direct Website,2025-10-07,57.0,1,2617.0,Confirmed
+BK10335,Leisure,Deluxe,Travel Agent,2025-02-27,6.0,2,4832.0,Confirmed
+BK10379,Leisure,Deluxe,OTA,2025-01-11,50.0,1,4676.0,Confirmed
+BK10545,Business,Standard,OTA,2025-05-21,6.0,3,3101.0,Canceled
+BK10171,Leisure,Deluxe,OTA,2025-08-08,,5,4452.0,Canceled
+BK10519,Leisure,Deluxe,OTA,2025-04-28,72.0,1,4974.0,Confirmed
+BK10830,Leisure,Deluxe,OTA,2025-08-07,7.0,7,4420.0,Confirmed
+BK10507,Leisure,Deluxe,Corporate,2025-10-09,54.0,1,4397.0,Confirmed
+BK10152,Business,Standard,OTA,2025-06-14,73.0,3,2468.0,Confirmed
+BK10618,Business,Standard,Travel Agent,2025-10-28,35.0,2,2255.0,Confirmed
+BK10413,Leisure,Suite,OTA,2025-06-28,27.0,4,24377.5,Canceled
+BK10609,Leisure,Standard,Direct Website,2025-05-02,21.0,6,2810.0,Confirmed
+BK10622,Business,Suite,OTA,2025-02-03,32.0,2,8035.0,Confirmed
+BK10872,Leisure,Suite,OTA,2025-12-12,4.0,2,7581.0,Canceled
+BK10581,Leisure,Deluxe,OTA,2025-09-23,60.0,7,4798.0,Confirmed
+BK10858,Leisure,Standard,OTA,2025-10-08,65.0,6,3026.0,Canceled
+BK10947,Leisure,Suite,Direct Website,2025-09-19,14.0,1,9714.0,Confirmed
+BK10641,Business,Deluxe,OTA,2025-08-29,11.0,2,4382.0,Confirmed
+BK10316,Leisure,Standard,Travel Agent,2025-08-29,19.0,3,3067.0,Canceled
+BK10959,Business,Deluxe,Travel Agent,2025-04-04,12.0,3,4185.0,Confirmed
+BK10258,Leisure,Standard,Travel Agent,2025-05-11,14.0,5,2976.0,Confirmed
+BK10834,Leisure,Deluxe,Travel Agent,2025-10-25,44.0,5,4739.0,Confirmed
+BK10662,Leisure,Standard,Direct Website,2025-10-16,29.0,7,3162.0,Confirmed
+BK10474,Leisure,Standard,Travel Agent,2025-04-08,54.0,7,2921.0,Confirmed
+BK10337,Leisure,Deluxe,OTA,2025-10-17,91.0,1,4364.0,Canceled
+BK10538,Leisure,Standard,OTA,2025-12-06,21.0,1,2968.0,Confirmed
+BK10504,Leisure,Deluxe,Corporate,2025-01-27,9.0,5,5108.0,Confirmed
+BK10398,Leisure,Standard,Direct Website,2025-08-11,46.0,3,2927.0,Canceled
+BK10423,Leisure,Standard,OTA,2025-12-20,38.0,2,2574.0,Confirmed
+BK10605,Leisure,Deluxe,OTA,2025-04-08,47.0,3,4684.0,Confirmed
+BK10940,Leisure,Standard,Travel Agent,2025-03-11,23.0,3,2850.0,Confirmed
+BK10660,Business,Standard,Travel Agent,2025-02-13,,4,3334.0,Canceled
+BK10480,Leisure,Standard,Direct Website,2025-08-24,13.0,1,3310.0,Confirmed
+BK10422,Leisure,Standard,Direct Website,2025-01-20,14.0,6,2492.0,Confirmed
+BK10119,Leisure,Deluxe,Travel Agent,2025-10-11,42.0,4,3745.0,Confirmed
+BK10917,Leisure,Standard,Direct Website,2025-09-02,5.0,2,2125.0,Confirmed
+BK10650,Leisure,Standard,OTA,2025-05-08,18.0,4,2203.0,Confirmed
+BK10681,Leisure,Standard,OTA,2025-12-16,37.0,1,2740.0,Confirmed
+BK10875,Leisure,Suite,Direct Website,2025-04-08,27.0,3,9397.0,Canceled
+BK10714,Leisure,Deluxe,Direct Website,2025-09-27,37.0,6,3946.0,Confirmed
+BK10659,Leisure,Standard,OTA,2025-07-12,119.0,5,2012.0,Canceled
+BK10789,Business,Deluxe,Direct Website,2025-05-05,27.0,4,5423.0,Confirmed
+BK10256,Leisure,Deluxe,OTA,2025-09-09,60.0,6,4923.0,Confirmed
+BK10968,Business,Deluxe,Direct Website,2025-02-17,50.0,4,5366.0,Confirmed
+BK10952,Leisure,Standard,Direct Website,2025-02-10,41.0,2,2307.0,Confirmed
+BK10643,Business,Standard,Direct Website,2025-01-23,22.0,4,2897.0,Confirmed
+BK10249,Leisure,Standard,Travel Agent,2025-08-03,8.0,7,2192.0,Confirmed
+BK10664,Leisure,Standard,Direct Website,2025-07-20,59.0,2,2521.0,Confirmed
+BK10874,Business,Deluxe,Corporate,2025-12-31,44.0,2,4506.0,Confirmed
